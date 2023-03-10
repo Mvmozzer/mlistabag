@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" parent-code="" group-title="CANAL ABERTO", MY TV TEST
+https://www.youtube.com/api/manifest/hls_variant/expire/1678483704/ei/mEwLZPmkLMn8wwTWwLHoAg/ip/2a09%3Abac5%3A5af%3A878%3A0%3A0%3Ad8%3A6b/id/OK-ZxeaD8wc.1/source/yt_live_broadcast/requiressl/yes/tx/24468617/txs/24468614%2C24468615%2C24468616%2C24468617%2C24468618/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAIShJwpu9I8F4_mTHbi6EKuzcPGqnEt-aeqefg-Sds-7AiEA_U8a8F1ok7QWcDQVjQnwqV6iVACjBR9KvM43twERxMo%3D/file/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/TV_Globo_2021_azul.png/revision/latest/scale-to-width-down/200?cb=20220201030422" parent-code="" group-title="CANAL ABERTO", TV GLOBO RJ 1080p
 http://api.magiaiptv.com/live/800196/128093/m2_kzeKgKsjyTCBUMl4_1080p
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/TV_Globo_2021_azul.png/revision/latest/scale-to-width-down/200?cb=20220201030422" parent-code="" group-title="CANAL ABERTO", TV GLOBO SP 720p
