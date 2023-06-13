@@ -1,16 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" parent-code="" group-title="CANAL ABERTO",
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.googleusercontent.com/d5bj9qzneiEl0toqO9K4OlHyEVgO0njmFIymWYWbOmXrFWVn8F0Fs_CNy9xTgmW2KemxlQ4EwII=s176-c-k-c0x00ffffff-no-rj" parent-code="" group-title="CANAL ABERTO", TV A Crítica
 https://ythls.onrender.com/channel/UCnLSKfHkgZ6ujEYCO9jq7Sw.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.googleusercontent.com/NLixemNREHgiGOVMZ0eDXzlPKfGytj4iLeV8e9_AFkGMbjbxkoKAYzKSthPuwA9lsxEFF2UCRy0=s176-c-k-c0x00ffffff-no-rj" parent-code="" group-title="CANAL ABERTO", SCC SBT
-https://ythls.onrender.com/channel/UCEzVIIPtAIfsRCEHwn4AOzw.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.googleusercontent.com/NLixemNREHgiGOVMZ0eDXzlPKfGytj4iLeV8e9_AFkGMbjbxkoKAYzKSthPuwA9lsxEFF2UCRy0=s176-c-k-c0x00ffffff-no-rj" parent-code="" group-title="CANAL ABERTO", SBT RS
+https://ythls.onrender.com/channel/UCHDfPYXReWt5EVIzBA6TzOQ.m3u8
 
 
-
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/RBTV23.png" parent-code="" group-title="CANAL ABERTO", REDE BRASIL DE TELEVISÃO
+https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/chunklist_w1621451250.m3u8
 
 
 
@@ -54,3 +53,4 @@ https://ythls.onrender.com/channel/UCf1y3FvYJYPbgMqHX7ZzeZA.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" parent-code="" group-title="PODCAST", Flow Podcast
 https://ythls.onrender.com/channel/UC4ncvgh5hFr5O83MH7-jRJg.m3u8
+
