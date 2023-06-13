@@ -5,8 +5,8 @@
 https://ythls.onrender.com/channel/UCnLSKfHkgZ6ujEYCO9jq7Sw.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqOReGQQVnUlqtIs6lPZ_o8dt0GbcNnQRnQThYt7=s176-c-k-c0x00ffffff-no-rj" parent-code="" group-title="CANAL ABERTO", SBT Live
-https://ythls.onrender.com/channel/UCjs9tLbZt-pfchEukixAhYg.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.googleusercontent.com/NLixemNREHgiGOVMZ0eDXzlPKfGytj4iLeV8e9_AFkGMbjbxkoKAYzKSthPuwA9lsxEFF2UCRy0=s176-c-k-c0x00ffffff-no-rj" parent-code="" group-title="CANAL ABERTO", SCC SBT
+https://ythls.onrender.com/channel/UCEzVIIPtAIfsRCEHwn4AOzw.m3u8
 
 
 
@@ -19,8 +19,38 @@ https://ythls.onrender.com/channel/UCjs9tLbZt-pfchEukixAhYg.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" parent-code="" group-title="EVANGELICO", IPP TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.googleusercontent.com/KyuFkSvJL5a_ir5X-o4gXJeag72Wd49a_7cHif08b0x0gYYjkArydYPQhX57aLMvLxAega4UXW8=s176-c-k-c0x00ffffff-no-rj" parent-code="" group-title="EVANGELICO", IPP TV
 https://ythls.onrender.com/channel/UCSQ2vulanpm-UYOzbDdu60A.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" parent-code="" group-title="EVANGELICO", SBN - SonLife Broadcasting Network
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.googleusercontent.com/DXZC3dn4uqFEl7q_FMWkl55wLJMdH5r2l0blF-QpUn1CfSuVtgkwbmHz0JEKblKda_xPBsNKQw=s176-c-k-c0x00ffffff-no-rj" parent-code="" group-title="EVANGELICO", SBN - SonLife Broadcasting Network
 https://ythls.onrender.com/channel/UCf1y3FvYJYPbgMqHX7ZzeZA.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" parent-code="" group-title="ESTADOS UNIDOS",
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" parent-code="" group-title="PORTUGAL",
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" parent-code="" group-title="PODCAST", Flow Podcast
+https://ythls.onrender.com/channel/UC4ncvgh5hFr5O83MH7-jRJg.m3u8
