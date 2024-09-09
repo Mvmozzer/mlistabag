@@ -4,12 +4,16 @@
 http://168.205.87.198:8555/live/1210/123456/101.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD05ec3avZ0awX0h5_evHqg8FZ6QLvMUWghg&s" parent-code="" group-title="BAND", BAND RIO
+https://iptv.vivatele.com:443/live/viva_padrao/viva2384/3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pubimg.band.uol.com.br/Files/band-minas.jpg" parent-code="" group-title="BAND", BAND MG
+http://168.205.87.198:8555/live/1210/123456/19.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.mitvstatic.com/channels/br_sbt-s-o-paulo-hd_m.png" parent-code="" group-title="BAND", BAND MG
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://heloisatolipan.com.br/imagens/2024/02/20240207-rede-cnt.jpg" parent-code="" group-title="CNT", CNT
 http://168.205.87.198:8555/live/1210/123456/150.m3u8
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNWWhTGsLXzafOqmImHZp7Ef9PXkem0jYQzA&s" parent-code="" group-title="CANAIS GOVERNO", TV SENADO
@@ -24,7 +28,7 @@ https://stream3.camara.gov.br/tv1/manifest.m3u8
 https://02a77e991da2431691c18a84ddc6fdfd.mediatailor.us-east-1.amazonaws.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/SSAI-Titan/43ddfa3f-6fec-44c9-abfe-2bd0f73cc5fb/6.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.mitvstatic.com/channels/br_sbt-s-o-paulo-hd_m.png" parent-code="" group-title="MAIS SBT", SBT SP
-https://02a77e991da2431691c18a84ddc6fdfd.mediatailor.us-east-1.amazonaws.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/SSAI-Titan/5d81cfc3-d02f-4df1-9ece-63a4df04d425/6.m3u8
+https://aovivo.maissbt.com/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" parent-code="" group-title="RECORD TV", RECORD RJ
 https://iptv.vivatele.com:443/live/viva_padrao/viva2384/13.m3u8
@@ -40,18 +44,14 @@ https://isaocorp.cloudecast.com/tv_meio/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://t7.org.br/wp-content/uploads/2017/06/novotempo3-1024x341-960x540.png" parent-code="" group-title="RELIGIOSO", NOVO TEMPO
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
-
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png" parent-code="" group-title="RELIGIOSO", REDE VIDA
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/live-redevida/720p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://seeklogo.com/images/C/cancao-nova-logo-32E26101A3-seeklogo.com.png" parent-code="" group-title="RELIGIOSO", CANÇAO NOVA
 https://isgo.newclews.workers.dev/stream/UCVrKQMmA2ew9LFzeIDaOFgw/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" parent-code="" group-title="RELIGIOSO", TV APARECIDA
 https://isgo.newclews.workers.dev/stream/UCfYrK5JU5EznsnK3wQE7iIg/master.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtI6rb9K2fUZfioDsswwgUU0Ctu_Fs-koaug&s" parent-code="" group-title="RIT", RIT
-https://02a77e991da2431691c18a84ddc6fdfd.mediatailor.us-east-1.amazonaws.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/SSAI-Titan/43ddfa3f-6fec-44c9-abfe-2bd0f73cc5fb/6.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtI6rb9K2fUZfioDsswwgUU0Ctu_Fs-koaug&s" parent-code="" group-title="RELIGIOSO", RIT
+https://acesso.ecast.site:3648/live/ritlive.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.svg.png" parent-code="" group-title="TV CULTURA", CULTURA
