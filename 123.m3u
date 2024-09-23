@@ -116,7 +116,12 @@ https://iptv.vivatele.com:443/live/viva_padrao/viva2384/13.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" parent-code="" group-title="RECORD TV", RECORD SP
 https://cdn-5.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxsbL2HxDgaQnDrrUT5Jg5bXgTgGsSVZAvKg&s" parent-code="" group-title="RTN", RTN SP
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.googleusercontent.com/GKNlxJXAce7XR5eQfaIzvMpybLf2460AlDqdHcmbtG1Wb1Ii9Kkt4OqIq_qrCVQe9DCIqyN8=s160-c-k-c0x00ffffff-no-rj" parent-code="" group-title="CANAIS A CRTITICA", TV A CRITICA
+https://ythls.kekikakademi.org/youtube/channel/UCnLSKfHkgZ6ujEYCO9jq7Sw.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxsbL2HxDgaQnDrrUT5Jg5bXgTgGsSVZAvKg&s" parent-code="" group-title="CANAIS A CRTITICA", RTN SP
 https://tv01.zas.media:1936/rtntv/rtntv/chunklist.m3u8
 
 
