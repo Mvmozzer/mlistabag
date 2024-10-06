@@ -25,8 +25,6 @@ http://168.205.87.198:8555/live/1210/123456/139.m3u8
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF:-1 group-title="MAIS SBT" tvg-logo="https://cdn.mitvstatic.com/channels/br_sbt-s-o-paulo-hd_m.png",SBT SP
 https://aovivo.maissbt.com/index.m3u8
-#EXTINF:-1 group-title="RECORD TV" tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png",RECORD SP
-https://cdn-5.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="CANAIS A CRTITICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxsbL2HxDgaQnDrrUT5Jg5bXgTgGsSVZAvKg&s",RTN SP
 https://tv01.zas.media:1936/rtntv/rtntv/chunklist.m3u8
 #EXTINF:-1 group-title="MEIO" tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/0/0e/Tvmeio-azul.jpg/revision/latest?cb=20240328011107&path-prefix=pt-br",MEIO TV
@@ -65,8 +63,6 @@ http://168.205.87.198:8555/live/1210/123456/69.m3u8
 https://acesso.ecast.site:3125/stream/play.m3u8
 #EXTINF:-1 group-title="TV AO VIVO",CENTRAL TV
 https://tv01.zas.media:1936/centraltvweb/centraltvweb/playlist.m3u8
-#EXTINF:-1 group-title="TV AO VIVO",GLOBO RJ 2
-http://15.235.15.230:14481
 #EXTINF:-1 group-title="TV AO VIVO",GLOBO MG
 http://168.205.87.198:8555/live/1210/123456/70.m3u8
 #EXTINF:-1 group-title="TV AO VIVO",RECORDTV MG
@@ -141,8 +137,6 @@ https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_720.m3u8
 #EXTINF:-1 group-title="TV AO VIVO",RT ESPANHOL
 https://rt-esp.rttv.com/live/rtesp/playlist_4500Kb.m3u8
-#EXTINF:-1 group-title="TV AO VIVO",MILENIO TELEVISION
-https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 #EXTINF:-1 group-title="TV AO VIVO",AZTECA INTERNACIONAL
 https://azt-mun.otteravision.com/azt/mun/mun_1080p.m3u8
 #EXTINF:-1 group-title="TV AO VIVO",DEUTSCHE WELLE ESPANHOL
@@ -197,16 +191,10 @@ https://stmv1.srvif.com/loadingtv/loadingtv/chunklist.m3u8
 https://sto-sat-samsung.otteravision.com/sto/sat/sat_720p.m3u8
 #EXTINF:-1 group-title="TV AO VIVO",ADULT SWIM
 http://authxplus-2.xyz:2082/Tourobox1-a0XKpLVUjZ/x1RCLfEYZL/541
-#EXTINF:-1 group-title="TV AO VIVO",LOCOMOTION
-http://51.222.85.85:81/hls/loco/index.m3u8
-#EXTINF:-1 group-title="TV AO VIVO",DREAMWORKS TV
-https://cdn-5.nxplay.com.br/DREAMWORKS/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="TV AO VIVO",BS TV
 https://br5093.streamingdevideo.com.br/bstv/bstv/index.m3u8
 #EXTINF:-1 group-title="TV AO VIVO",FISH TV
 http://168.205.87.198:8555/live/1210/123456/62.m3u8
-#EXTINF:-1 group-title="TV AO VIVO",AGRO MAIS
-https://cdn-5.nxplay.com.br/AGROMAIS_HD_TK/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="TV AO VIVO",AGRO BRASIL TV
 https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
 #EXTINF:-1 group-title="TV AO VIVO",SOUL CINE
@@ -253,8 +241,6 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 http://168.205.87.198:8555/live/1210/123456/169.m3u8
 #EXTINF:-1 group-title="TV AO VIVO",TRACE BRAZUCA
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8
-#EXTINF:-1 group-title="Radios",HALLO MUSIC
-https://cdn-5.nxplay.com.br/HALLOMUSIC/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
 #EXTINF:-1 group-title="TV AO VIVO",NOW 80s
 https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 group-title="TV AO VIVO",IN TV
@@ -327,16 +313,8 @@ https://run-th-br-lgchannels.otteravision.com/run/th_br/th_br_720.m3u8
 https://run-ro-br-plex.otteravision.com/run/ro_br/ro_br_720.m3u8
 #EXTINF:-1 group-title="TV AO VIVO",MOVIE SPHERE
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8
-#EXTINF:-1 group-title="TV AO VIVO",EUROPA PLAY
-https://cdn-5.nxplay.com.br/europaplay/index.m3u8
-#EXTINF:-1 group-title="TV AO VIVO",HALLO CLASSIC
-https://cdn-5.nxplay.com.br/HALLOCLASSIC/index.m3u8
-#EXTINF:-1 group-title="TV AO VIVO",HTO FILMES
-https://cdn-5.nxplay.com.br/HTO_Filmes/playlist.m3u8
 #EXTINF:-1 group-title="TV AO VIVO",URBAN MOVIES
 http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
-#EXTINF:-1 group-title="TV AO VIVO",REDE TVS
-https://stmv1.samcast.com.br/ciranodesousacarvalho4922/ciranodesousacarvalho4922/playlist.m3u8
 #EXTINF:-1 group-title="TV AO VIVO",AMC
 http://dzcdn.vood.top:80/hls/669_.m3u8
 #EXTINF:-1 group-title="TV AO VIVO",OS DEZ MANDAMENTOS
@@ -359,9 +337,6 @@ https://d12f70rc9elynx.cloudfront.net/playlist.m3u8
 https://failarmy-international-br.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="TV AO VIVO",PET COLLECTIVE
 https://the-pet-collective-international-br.samsung.wurl.tv/playlist.m3u8
-
-
-
 #EXTINF:-1 group-title="Abertos" tvg-logo="https://gkpb.com.br/wp-content/uploads/2021/12/novo-logo-tv-globo.jpg",TV Globo RJ
 http://canal.cdntv.com.br:80/robert123/robert123/10
 #EXTINF:-1 group-title="Abertos" tvg-logo="https://gkpb.com.br/wp-content/uploads/2021/12/novo-logo-tv-globo.jpg",TV Globo SP
@@ -436,18 +411,12 @@ http://canal.cdntv.com.br:80/robert123/robert123/135
 http://canal.cdntv.com.br:80/robert123/robert123/152
 #EXTINF:-1 group-title="Abertos" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTVx7PvNNV7r00DNdZ-QcKCHDdmHhfpQb1tkn5zYw=s512-c-k-c0x00ffffff-no-rj-mo",TV Gazeta
 http://canal.cdntv.com.br:80/robert123/robert123/161
-#EXTINF:-1 group-title="Religiosos" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTpOxDLl4gF7cW3Hezi6JMk2SkrG2yCvB_xkkchag=s512-c-k-c0x00ffffff-no-rj-mo",Rede Mundial
-http://canal.cdntv.com.br:80/robert123/robert123/162
-#EXTINF:-1 group-title="Entretenimento" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu-MC9tLAH5Wnq5ul_G0BINZiKMiTj4CJzP5-A1ktQ=s512-c-k-c0x00ffffff-no-rj",Tastemade Brasil
-http://canal.cdntv.com.br:80/robert123/robert123/168
 #EXTINF:-1 group-title="Musicas" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQo0L9O4Sr102l1898CPQDAD6szi0D09La7k0eosQ=s512-c-k-c0x00ffffff-no-rj-mo",Clubbing TV
 http://canal.cdntv.com.br:80/robert123/robert123/178
 #EXTINF:-1 group-title="Esportes" tvg-logo="https://yt3.ggpht.com/3OJ3dBiJmSngehvMZZS25O17yHIaiBOJZgcqGVDx7h-rZTvS7LLQXm6XlLppnlw-0JgoznyL=s512-c-k-c0x00ffffff-no-rj-mo",Combate Global
 http://canal.cdntv.com.br:80/robert123/robert123/187
 #EXTINF:-1 group-title="Abertos" tvg-logo="https://yt3.ggpht.com/fbNbtOxYjEUZbx3a0aIXuJd_lu2qMQm6YV29Wm9F-WHdFAiRwJOe9db4oBnoFTL-ckPwmWXksfs=s512-c-k-c0x00ffffff-no-rj-mo",Band Rio Interior
 http://canal.cdntv.com.br:80/robert123/robert123/189
-#EXTINF:-1 group-title="Entretenimento" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c680591502799a354409ce23b41932f8.jpg",Web Tv Xtreme
-http://canal.cdntv.com.br:80/robert123/robert123/192
 #EXTINF:-1 group-title="Entretenimento" tvg-logo="https://yt3.ggpht.com/3qE9ZY_bAgBFJSGznDoaparYE1Odkipg9hg1SQeA7NauVQwoB_NglLSpDapttKHnJk-UARtx=s512-c-k-c0x00ffffff-no-rj",Demais TV
 http://canal.cdntv.com.br:80/robert123/robert123/195
 #EXTINF:-1 group-title="Entretenimento" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLT5sodeAokl394_CiT6sMdPVpP54s2hI8ewwyog2Q=s512-c-k-c0x00ffffff-no-rj",Canal Rural
@@ -480,12 +449,8 @@ http://canal.cdntv.com.br:80/robert123/robert123/466
 http://canal.cdntv.com.br:80/robert123/robert123/467
 #EXTINF:-1 group-title="Entretenimento" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaTuwdVUj_19a0y3JrmFU2dZkVlJMwhpw4lCCp9l6Ks=s512-c-k-c0x00ffffff-no-rj",PlayTV
 http://canal.cdntv.com.br:80/robert123/robert123/471
-#EXTINF:-1 group-title="Esportes" tvg-logo="https://yt3.googleusercontent.com/0C0F1Q6700SF9CrsIO-VkEBOd3e5MTu4kwDjBIAdQikMeu05tO7bP0Pi889j3gn1wUoP9Bij=s512-c-k-c0x00ffffff-no-rj",Power Slap
-http://canal.cdntv.com.br:80/robert123/robert123/479
 #EXTINF:-1 group-title="Entretenimento" tvg-logo="https://scontent-gru2-2.xx.fbcdn.net/v/t39.30808-6/311472703_5540198542728053_8555239347712458491_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=cneH8sArxkgAX9h2Ai4&_nc_ht=scontent-gru2-2.xx&oh=00_AfAE0vBdX3vkTwFrXtzUTAqiy6eMahe6Iv0CvudG2kx7wQ&oe=64C83558",Receitas Fast
 http://canal.cdntv.com.br:80/robert123/robert123/480
-#EXTINF:-1 group-title="Abertos",SBT RN
-http://canal.cdntv.com.br:80/robert123/robert123/483
 #EXTINF:-1 group-title="Abertos",Record RN
 http://canal.cdntv.com.br:80/robert123/robert123/485
 #EXTINF:-1 group-title="Filmes",My Time Movies
@@ -496,10 +461,6 @@ http://canal.cdntv.com.br:80/robert123/robert123/493
 http://canal.cdntv.com.br:80/robert123/robert123/494
 #EXTINF:-1 group-title="Entretenimento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1280px-SpaceLogo.svg.png",SPACE HD
 http://canal.cdntv.com.br:80/robert123/robert123/495
-#EXTINF:-1 group-title="Abertos" tvg-logo="https://s2-receitas.glbimg.com/gn6vFoEAXS3pXt8wd0I5XR5vl4w=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_1f540e0b94d8437dbbc39d567a1dee68/internal_photos/bs/2023/7/k/VzAGaGQSaCv2tJn0wyqg/logo-receitas-16-9-retangulo.jpg",Receitas Fast
-http://canal.cdntv.com.br:80/robert123/robert123/497
-#EXTINF:-1 group-title="Abertos" tvg-logo="https://imaginariodigital.org.br/sites/default/files/imagens/empresas/logo-canal-brasil.png",Canal Brasil HD
-http://canal.cdntv.com.br:80/robert123/robert123/498
 #EXTINF:-1 group-title="Abertos" tvg-logo="https://plataformas.news/online/nota_4956.jpg",TNT-NOVELAS HD
 http://canal.cdntv.com.br:80/robert123/robert123/496
 #EXTINF:-1 group-title="Abertos" tvg-logo="https://s2-ug.ap4r.com/image-aigc-article/seoPic/origin/a54017008ed62defce03d47cd21535bae579c19f.png",TNT HD
@@ -542,26 +503,8 @@ http://canal.cdntv.com.br:80/robert123/robert123/518
 http://canal.cdntv.com.br:80/robert123/robert123/519
 #EXTINF:-1 group-title="Abertos",teste unifibra me 3
 http://canal.cdntv.com.br:80/robert123/robert123/520
-#EXTINF:-1 group-title="Abertos",teste unifbra me 5
-http://canal.cdntv.com.br:80/robert123/robert123/521
-=======
 #EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
 http://canal.cdntv.com.br:80/robert123/robert123/3
-#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
-http://canal.cdntv.com.br:80/robert123/robert123/42
-#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
-http://canal.cdntv.com.br:80/robert123/robert123/171
-#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
-http://canal.cdntv.com.br:80/robert123/robert123/442
-#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
-http://canal.cdntv.com.br:80/robert123/robert123/514
->>>>>>> 0574cfae4a8e97d86a079b9867ec0e5236ad7f1e
-
-
-
-
-
-
 #EXTINF:-1 group-title="Canais | 4K" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png",SPORTV 4K
 http://smart.cdn23.click:80/leonardo4249/a980069/284576
 #EXTINF:-1 group-title="Canais | 4K" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png",Premiere Clubes 4K
@@ -656,8 +599,6 @@ http://smart.cdn23.click:80/leonardo4249/a980069/289883
 http://smart.cdn23.click:80/leonardo4249/a980069/289884
 #EXTINF:-1 group-title="Canais | Globo Sudeste" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png",Globo SP SD
 http://smart.cdn23.click:80/leonardo4249/a980069/289885
-#EXTINF:-1 group-title="Canais | ESPN" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png",ESPN FHD
-http://smart.cdn23.click:80/leonardo4249/a980069/309458
 #EXTINF:-1 group-title="Canais | ESPN" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png",ESPN H265
 http://smart.cdn23.click:80/leonardo4249/a980069/123947
 #EXTINF:-1 group-title="Canais | ESPN" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png",ESPN UHD
@@ -668,12 +609,6 @@ http://smart.cdn23.click:80/leonardo4249/a980069/208
 http://smart.cdn23.click:80/leonardo4249/a980069/231647
 #EXTINF:-1 group-title="Canais | ESPN" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png",ESPN HD²
 http://smart.cdn23.click:80/leonardo4249/a980069/209
-#EXTINF:-1 group-title="Canais | ESPN" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png",ESPN SD
-http://smart.cdn23.click:80/leonardo4249/a980069/207
-#EXTINF:-1 group-title="Canais | ESPN" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png",ESPN2 FHD
-http://smart.cdn23.click:80/leonardo4249/a980069/215
-#EXTINF:-1 group-title="Canais | ESPN" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png",ESPN2 H265
-http://smart.cdn23.click:80/leonardo4249/a980069/362050
 #EXTINF:-1 group-title="Canais | ESPN" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png",ESPN2 UHD
 http://smart.cdn23.click:80/leonardo4249/a980069/52091
 #EXTINF:-1 group-title="Canais | ESPN" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png",ESPN2 HD
@@ -710,8 +645,6 @@ http://smart.cdn23.click:80/leonardo4249/a980069/21236
 http://smart.cdn23.click:80/leonardo4249/a980069/228
 #EXTINF:-1 group-title="Canais | ESPN" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png",ESPN Extra SD
 http://smart.cdn23.click:80/leonardo4249/a980069/227
-#EXTINF:-1 group-title="Canais | Estrela Day" tvg-logo="http://app.tvdigital.link:2095/logoscanais/EstrelaDaCasa.png",ESTRELA DAY ACOMPANHE A CASA
-http://smart.cdn23.click:80/leonardo4249/a980069/384589
 #EXTINF:-1 group-title="Canais | A Fazenda" tvg-logo="http://app.tvdigital.link:2095/logoscanais/fazenda.png",Aquecimento A Fazenda
 http://smart.cdn23.click:80/leonardo4249/a980069/397630
 #EXTINF:-1 group-title="Canais | A Fazenda" tvg-logo="http://app.tvdigital.link:2095/logoscanais/fazenda.png",A Fazenda 2 FHD
@@ -736,10 +669,6 @@ http://smart.cdn23.click:80/leonardo4249/a980069/398926
 http://smart.cdn23.click:80/leonardo4249/a980069/376344
 #EXTINF:-1 group-title="Canais |  Variedades" tvg-logo="http://app.tvdigital.link:2095/logoscanais/Swin.png",Adult Swim HD
 http://smart.cdn23.click:80/leonardo4249/a980069/376345
-#EXTINF:-1 group-title="Canais | SporTV" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png",SporTV FHD
-http://smart.cdn23.click:80/leonardo4249/a980069/118881
-#EXTINF:-1 group-title="Canais | SporTV" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png",SporTV H265
-http://smart.cdn23.click:80/leonardo4249/a980069/52090
 #EXTINF:-1 group-title="Canais | SporTV" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png",SporTV UHD
 http://smart.cdn23.click:80/leonardo4249/a980069/21275
 #EXTINF:-1 group-title="Canais | SporTV" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png",SporTV HD
@@ -770,10 +699,6 @@ http://smart.cdn23.click:80/leonardo4249/a980069/21274
 http://smart.cdn23.click:80/leonardo4249/a980069/557
 #EXTINF:-1 group-title="Canais | SporTV" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png",SporTV 3 HD²
 http://smart.cdn23.click:80/leonardo4249/a980069/558
-#EXTINF:-1 group-title="Canais | SporTV" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png",SporTV 3 SD
-http://smart.cdn23.click:80/leonardo4249/a980069/556
-#EXTINF:-1 group-title="Canais | Pay-per-view" tvg-logo="https://canalgoat.com.br/img/logo-composite.png",Canal Goat 2 FHD
-http://smart.cdn23.click:80/leonardo4249/a980069/232222
 #EXTINF:-1 group-title="Canais | Pay-per-view" tvg-logo="https://m.media-amazon.com/images/I/513naL3U+8L.png",APPLE TV 1
 http://smart.cdn23.click:80/leonardo4249/a980069/274649
 #EXTINF:-1 group-title="Canais | Pay-per-view" tvg-logo="https://m.media-amazon.com/images/I/513naL3U+8L.png",APPLE TV 2
@@ -784,8 +709,6 @@ http://smart.cdn23.click:80/leonardo4249/a980069/234278
 http://smart.cdn23.click:80/leonardo4249/a980069/264555
 #EXTINF:-1 group-title="Canais | Filmes & Series" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TNT.png",TNT Novelas  HD
 http://smart.cdn23.click:80/leonardo4249/a980069/264556
-#EXTINF:-1 group-title="Canais | Filmes & Series" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TNT.png",TNT Novelas  SD
-http://smart.cdn23.click:80/leonardo4249/a980069/264557
 #EXTINF:-1 group-title="Canais | Pay-per-view" tvg-logo="http://app.tvdigital.link:2095/logoscanais/REDEFURACAO.png",Furacao Live FHD
 http://smart.cdn23.click:80/leonardo4249/a980069/254096
 #EXTINF:-1 group-title="Canais | Pay-per-view" tvg-logo="http://app.tvdigital.link:2095/logoscanais/REDEFURACAO.png",Furacao Live UHD
@@ -802,22 +725,14 @@ http://smart.cdn23.click:80/leonardo4249/a980069/254104
 http://smart.cdn23.click:80/leonardo4249/a980069/311744
 #EXTINF:-1 group-title="Canais | Pay-per-view" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CAZETV.png",CazeTV 3
 http://smart.cdn23.click:80/leonardo4249/a980069/311745
-#EXTINF:-1 group-title="Canais | Pay-per-view" tvg-logo="https://yt3.googleusercontent.com/5qffzzZVV45NzgJ_wu-xlvXN-BSHWKW15goDi1QJcVIna8Seu-9PMGWOBCLuz6QAlZE0byNrMw=s900-c-k-c0x00ffffff-no-rj",BJJ STARS HD
-http://smart.cdn23.click:80/leonardo4249/a980069/369565
 #EXTINF:-1 group-title="Canais | Filmes & Series" tvg-logo="http://app.tvdigital.link:2095/logoscanais/A&E.png",A&E FHD
 http://smart.cdn23.click:80/leonardo4249/a980069/666
 #EXTINF:-1 group-title="Canais | Filmes & Series" tvg-logo="http://app.tvdigital.link:2095/logoscanais/A&E.png",A&E UHD
 http://smart.cdn23.click:80/leonardo4249/a980069/21292
-#EXTINF:-1 group-title="Canais | Filmes & Series" tvg-logo="http://app.tvdigital.link:2095/logoscanais/A&E.png",A&E HD
-http://smart.cdn23.click:80/leonardo4249/a980069/664
 #EXTINF:-1 group-title="Canais | Filmes & Series" tvg-logo="http://app.tvdigital.link:2095/logoscanais/A&E.png",A&E HD²
 http://smart.cdn23.click:80/leonardo4249/a980069/665
-#EXTINF:-1 group-title="Canais | Filmes & Series" tvg-logo="http://app.tvdigital.link:2095/logoscanais/A&E.png",A&E SD
-http://smart.cdn23.click:80/leonardo4249/a980069/663
 #EXTINF:-1 group-title="Canais | Noticias" tvg-logo="http://app.tvdigital.link:2095/logoscanais/AGROMAIS.png",AgroMais FHD
 http://smart.cdn23.click:80/leonardo4249/a980069/464
-#EXTINF:-1 group-title="Canais | Noticias" tvg-logo="http://app.tvdigital.link:2095/logoscanais/AGROMAIS.png",AgroMais HD
-http://smart.cdn23.click:80/leonardo4249/a980069/462
 #EXTINF:-1 group-title="Canais | Noticias" tvg-logo="http://app.tvdigital.link:2095/logoscanais/AGROMAIS.png",AgroMais SD
 http://smart.cdn23.click:80/leonardo4249/a980069/461
 #EXTINF:-1 group-title="Canais | Documentarios" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ANIMALPLANET.png",Animal Planet FHD
@@ -852,8 +767,6 @@ http://smart.cdn23.click:80/leonardo4249/a980069/21223
 http://smart.cdn23.click:80/leonardo4249/a980069/674
 #EXTINF:-1 group-title="Canais | Filmes & Series" tvg-logo="http://app.tvdigital.link:2095/logoscanais/AXN.png",AXN HD²
 http://smart.cdn23.click:80/leonardo4249/a980069/675
-#EXTINF:-1 group-title="Canais | Filmes & Series" tvg-logo="http://app.tvdigital.link:2095/logoscanais/AXN.png",AXN SD
-http://smart.cdn23.click:80/leonardo4249/a980069/673
 #EXTINF:-1 group-title="Canais | Infantil" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BABYTV.png",Baby TV SD
 http://smart.cdn23.click:80/leonardo4249/a980069/349
 #EXTINF:-1 group-title="Canais | Infantil" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TOONCAST.png",TOONCAST FHD
@@ -878,14 +791,10 @@ http://smart.cdn23.click:80/leonardo4249/a980069/467
 http://smart.cdn23.click:80/leonardo4249/a980069/468
 #EXTINF:-1 group-title="Canais | Noticias" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BANDNEWS.png",Band News SD
 http://smart.cdn23.click:80/leonardo4249/a980069/466
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BANDSPORTS.png",Band Sports FHD
-http://smart.cdn23.click:80/leonardo4249/a980069/235
 #EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BANDSPORTS.png",Band Sports H265
 http://smart.cdn23.click:80/leonardo4249/a980069/118755
 #EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BANDSPORTS.png",Band Sports UHD
 http://smart.cdn23.click:80/leonardo4249/a980069/21225
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BANDSPORTS.png",Band Sports HD
-http://smart.cdn23.click:80/leonardo4249/a980069/233
 #EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BANDSPORTS.png",Band Sports HD²
 http://smart.cdn23.click:80/leonardo4249/a980069/234
 #EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BANDSPORTS.png",Band Sports HD².
@@ -906,8 +815,6 @@ http://smart.cdn23.click:80/leonardo4249/a980069/376504
 http://smart.cdn23.click:80/leonardo4249/a980069/376503
 #EXTINF:-1 group-title="Canais |  Variedades" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BIS.png",BIS SD
 http://smart.cdn23.click:80/leonardo4249/a980069/376502
-#EXTINF:-1 group-title="Canais | Filmes & Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/CanalBrasil_logos_700px_0-03.png",Canal Brasil FHD
-http://smart.cdn23.click:80/leonardo4249/a980069/146
 #EXTINF:-1 group-title="Canais | Filmes & Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/CanalBrasil_logos_700px_0-03.png",Canal Brasil HD
 http://smart.cdn23.click:80/leonardo4249/a980069/145
 #EXTINF:-1 group-title="Canais | Pay-per-view" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CANALVOLEIBRASIL.png",CANAL DO VOLEI 01
@@ -916,8 +823,6 @@ http://smart.cdn23.click:80/leonardo4249/a980069/18289
 http://smart.cdn23.click:80/leonardo4249/a980069/18288
 #EXTINF:-1 group-title="Canais | Pay-per-view" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CANALVOLEIBRASIL.png",CANAL DO VOLEI 03
 http://smart.cdn23.click:80/leonardo4249/a980069/18287
-#EXTINF:-1 group-title="Canais | Filmes & Series" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SONYCHANNEL.png",Canal Sony FHD
-http://smart.cdn23.click:80/leonardo4249/a980069/702
 #EXTINF:-1 group-title="Canais | Filmes & Series" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SONYCHANNEL.png",Canal Sony UHD
 http://smart.cdn23.click:80/leonardo4249/a980069/21229
 #EXTINF:-1 group-title="Canais | Filmes & Series" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SONYCHANNEL.png",Canal Sony HD
@@ -934,8 +839,6 @@ http://smart.cdn23.click:80/leonardo4249/a980069/351
 http://smart.cdn23.click:80/leonardo4249/a980069/367317
 #EXTINF:-1 group-title="Canais | Infantil" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CARTOONNETWORK.png",Cartoon Network SD
 http://smart.cdn23.click:80/leonardo4249/a980069/350
-#EXTINF:-1 group-title="Canais | Infantil" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CARTOONITO.png",Cartoonito FHD
-http://smart.cdn23.click:80/leonardo4249/a980069/110683
 #EXTINF:-1 group-title="Canais | Infantil" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CARTOONITO.png",Cartoonito UHD
 http://smart.cdn23.click:80/leonardo4249/a980069/368110
 #EXTINF:-1 group-title="Canais | Infantil" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CARTOONITO.png",Cartoonito HD
@@ -964,10 +867,6 @@ http://smart.cdn23.click:80/leonardo4249/a980069/380909
 http://smart.cdn23.click:80/leonardo4249/a980069/472
 #EXTINF:-1 group-title="Canais | Noticias" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CNNBRASIL.png",CNN Brasil SD
 http://smart.cdn23.click:80/leonardo4249/a980069/471
-#EXTINF:-1 group-title="Canais | Noticias" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CNNINTERNATIONAL.png",CNN Internacional  HD
-http://smart.cdn23.click:80/leonardo4249/a980069/118886
-#EXTINF:-1 group-title="Canais | Noticias" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CNNINTERNATIONAL.png",CNN Internacional SD
-http://smart.cdn23.click:80/leonardo4249/a980069/118887
 #EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://app.tvdigital.link:2095/logoscanais/COMBATE.png",Combate FHD
 http://smart.cdn23.click:80/leonardo4249/a980069/240
 #EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://app.tvdigital.link:2095/logoscanais/COMBATE.png",Combate H265
@@ -982,8 +881,6 @@ http://smart.cdn23.click:80/leonardo4249/a980069/237
 http://smart.cdn23.click:80/leonardo4249/a980069/687
 #EXTINF:-1 group-title="Canais | Filmes & Series" tvg-logo="http://app.tvdigital.link:2095/logoscanais/COMEDYCENTRAL.png",Comedy Central UHD
 http://smart.cdn23.click:80/leonardo4249/a980069/21233
-#EXTINF:-1 group-title="Canais | Filmes & Series" tvg-logo="http://app.tvdigital.link:2095/logoscanais/COMEDYCENTRAL.png",Comedy Central HD
-http://smart.cdn23.click:80/leonardo4249/a980069/685
 #EXTINF:-1 group-title="Canais | Filmes & Series" tvg-logo="http://app.tvdigital.link:2095/logoscanais/COMEDYCENTRAL.png",Comedy Central HD²
 http://smart.cdn23.click:80/leonardo4249/a980069/686
 #EXTINF:-1 group-title="Canais | Filmes & Series" tvg-logo="http://app.tvdigital.link:2095/logoscanais/COMEDYCENTRAL.png",Comedy Central SD
@@ -1008,14 +905,10 @@ http://smart.cdn23.click:80/leonardo4249/a980069/21338
 http://smart.cdn23.click:80/leonardo4249/a980069/2575
 #EXTINF:-1 group-title="Canais | Discovery" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYCHANNEL.png",Disc. Channel HD²
 http://smart.cdn23.click:80/leonardo4249/a980069/2576
-#EXTINF:-1 group-title="Canais | Discovery" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYCHANNEL.png",Disc. Channel SD
-http://smart.cdn23.click:80/leonardo4249/a980069/2574
 #EXTINF:-1 group-title="Canais | Discovery" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYHOME&HEALTH.png",Disc. Home &  Health FHD
 http://smart.cdn23.click:80/leonardo4249/a980069/2572
 #EXTINF:-1 group-title="Canais | Discovery" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYHOME&HEALTH.png",Disc. Home &  Health UHD
 http://smart.cdn23.click:80/leonardo4249/a980069/21295
-#EXTINF:-1 group-title="Canais | Discovery" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYHOME&HEALTH.png",Disc. Home &  Health HD
-http://smart.cdn23.click:80/leonardo4249/a980069/2570
 #EXTINF:-1 group-title="Canais | Discovery" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYHOME&HEALTH.png",Disc. Home &  Health HD²
 http://smart.cdn23.click:80/leonardo4249/a980069/2571
 #EXTINF:-1 group-title="Canais | Discovery" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYHOME&HEALTH.png",Disc. Home &  Health SD
@@ -1028,8 +921,6 @@ http://smart.cdn23.click:80/leonardo4249/a980069/21297
 http://smart.cdn23.click:80/leonardo4249/a980069/2580
 #EXTINF:-1 group-title="Canais | Discovery" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYSCIENCE.png",Disc. Science HD²
 http://smart.cdn23.click:80/leonardo4249/a980069/2581
-#EXTINF:-1 group-title="Canais | Discovery" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYSCIENCE.png",Disc. Science SD
-http://smart.cdn23.click:80/leonardo4249/a980069/2579
 #EXTINF:-1 group-title="Canais | Discovery" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYTHEATER.png",Disc. Theater FHD
 http://smart.cdn23.click:80/leonardo4249/a980069/2587
 #EXTINF:-1 group-title="Canais | Discovery" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYTHEATER.png",Disc. Theater UHD
@@ -1058,12 +949,8 @@ http://smart.cdn23.click:80/leonardo4249/a980069/21300
 http://smart.cdn23.click:80/leonardo4249/a980069/2595
 #EXTINF:-1 group-title="Canais | Discovery" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYWORLD.png",Disc. World HD²
 http://smart.cdn23.click:80/leonardo4249/a980069/2596
-#EXTINF:-1 group-title="Canais | Discovery" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYWORLD.png",Disc. World SD
-http://smart.cdn23.click:80/leonardo4249/a980069/2594
 #EXTINF:-1 group-title="Canais | Infantil" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYKIDS.png",Discovery Kids UHD
 http://smart.cdn23.click:80/leonardo4249/a980069/367319
-#EXTINF:-1 group-title="Canais | Infantil" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYKIDS.png",Discovery Kids HD
-http://smart.cdn23.click:80/leonardo4249/a980069/363
 #EXTINF:-1 group-title="Canais | Infantil" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYKIDS.png",Discovery Kids HD²
 http://smart.cdn23.click:80/leonardo4249/a980069/367320
 #EXTINF:-1 group-title="Canais | Infantil" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYKIDS.png",Discovery Kids SD
@@ -1132,8 +1019,6 @@ http://smart.cdn23.click:80/leonardo4249/a980069/592
 http://smart.cdn23.click:80/leonardo4249/a980069/593
 #EXTINF:-1 group-title="Canais | Star Channel" tvg-logo="http://app.tvdigital.link:2095/logoscanais/FX.jpg",FX SD
 http://smart.cdn23.click:80/leonardo4249/a980069/591
-#EXTINF:-1 group-title="Canais | Globo Centro-Oeste" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png",Globo Brasilia FHD
-http://smart.cdn23.click:80/leonardo4249/a980069/2452
 #EXTINF:-1 group-title="Canais | Globo Centro-Oeste" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png",Globo Brasilia UHD
 http://smart.cdn23.click:80/leonardo4249/a980069/365104
 #EXTINF:-1 group-title="Canais | Globo Centro-Oeste" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png",Globo Brasilia HD
@@ -1178,8 +1063,6 @@ http://smart.cdn23.click:80/leonardo4249/a980069/21344
 http://smart.cdn23.click:80/leonardo4249/a980069/2385
 #EXTINF:-1 group-title="Canais | Globo Sudeste" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png",Globo EPTV Ribeirão Preto HD²
 http://smart.cdn23.click:80/leonardo4249/a980069/359055
-#EXTINF:-1 group-title="Canais | Globo Sudeste" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png",Globo EPTV Ribeirão Preto SD
-http://smart.cdn23.click:80/leonardo4249/a980069/2384
 #EXTINF:-1 group-title="Canais | Globo Sudeste" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png",Globo EPTV Sul de Minas FHD
 http://smart.cdn23.click:80/leonardo4249/a980069/2383
 #EXTINF:-1 group-title="Canais | Globo Sudeste" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png",Globo EPTV Sul de Minas UHD
@@ -1188,14 +1071,10 @@ http://smart.cdn23.click:80/leonardo4249/a980069/359313
 http://smart.cdn23.click:80/leonardo4249/a980069/2382
 #EXTINF:-1 group-title="Canais | Globo Sudeste" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png",Globo EPTV Sul de Minas HD²
 http://smart.cdn23.click:80/leonardo4249/a980069/359314
-#EXTINF:-1 group-title="Canais | Globo Sudeste" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png",Globo EPTV Sul de Minas SD
-http://smart.cdn23.click:80/leonardo4249/a980069/2381
 #EXTINF:-1 group-title="Canais | Globo Nordeste" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png",Globo Inter TV Cabugi FHD
 http://smart.cdn23.click:80/leonardo4249/a980069/2437
 #EXTINF:-1 group-title="Canais | Globo Nordeste" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png",Globo Inter TV Cabugi UHD
 http://smart.cdn23.click:80/leonardo4249/a980069/362065
-#EXTINF:-1 group-title="Canais | Globo Nordeste" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png",Globo Inter TV Cabugi HD
-http://smart.cdn23.click:80/leonardo4249/a980069/2436
 #EXTINF:-1 group-title="Canais | Globo Nordeste" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png",Globo Inter TV Cabugi HD²
 http://smart.cdn23.click:80/leonardo4249/a980069/362066
 #EXTINF:-1 group-title="Canais | Globo Nordeste" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png",Globo Inter TV Cabugi SD
@@ -1228,8 +1107,6 @@ http://smart.cdn23.click:80/leonardo4249/a980069/359038
 http://smart.cdn23.click:80/leonardo4249/a980069/274515
 #EXTINF:-1 group-title="Canais | Globo Sudeste" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png",Globo INTER TV Grande Minas HD²
 http://smart.cdn23.click:80/leonardo4249/a980069/359039
-#EXTINF:-1 group-title="Canais |  Globo Sul" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png",Globo NSC TV Blumenau FHD
-http://smart.cdn23.click:80/leonardo4249/a980069/2290
 #EXTINF:-1 group-title="Canais |  Globo Sul" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png",Globo NSC TV Blumenau UHD
 http://smart.cdn23.click:80/leonardo4249/a980069/360123
 #EXTINF:-1 group-title="Canais |  Globo Sul" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png",Globo NSC TV Blumenau H265
@@ -1288,8 +1165,6 @@ http://smart.cdn23.click:80/leonardo4249/a980069/360917
 http://smart.cdn23.click:80/leonardo4249/a980069/2304
 #EXTINF:-1 group-title="Canais |  Globo Sul" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png",Globo NSC TV Joinville HD²
 http://smart.cdn23.click:80/leonardo4249/a980069/360918
-#EXTINF:-1 group-title="Canais |  Globo Sul" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png",Globo NSC TV Joinville SD
-http://smart.cdn23.click:80/leonardo4249/a980069/2303
 #EXTINF:-1 group-title="Canais |  Globo Sul" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png",Globo RBS TV POA FHD
 http://smart.cdn23.click:80/leonardo4249/a980069/2313
 #EXTINF:-1 group-title="Canais |  Globo Sul" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png",Globo RBS TV POA UHD
@@ -1308,8 +1183,6 @@ http://smart.cdn23.click:80/leonardo4249/a980069/389119
 http://smart.cdn23.click:80/leonardo4249/a980069/2307
 #EXTINF:-1 group-title="Canais |  Globo Sul" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png",Globo RBS TV Caxias do Sul UHD
 http://smart.cdn23.click:80/leonardo4249/a980069/360929
-#EXTINF:-1 group-title="Canais |  Globo Sul" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png",Globo RBS TV Caxias do Sul HD
-http://smart.cdn23.click:80/leonardo4249/a980069/2306
 #EXTINF:-1 group-title="Canais |  Globo Sul" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png",Globo RBS TV Caxias do Sul HD²
 http://smart.cdn23.click:80/leonardo4249/a980069/360930
 #EXTINF:-1 group-title="Canais |  Globo Sul" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png",Globo RBS TV Caxias do Sul SD
@@ -1324,8 +1197,6 @@ http://smart.cdn23.click:80/leonardo4249/a980069/2330
 http://smart.cdn23.click:80/leonardo4249/a980069/362041
 #EXTINF:-1 group-title="Canais |  Globo Sul" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png",Globo RBS TV Passo Fundo SD
 http://smart.cdn23.click:80/leonardo4249/a980069/2329
-#EXTINF:-1 group-title="Canais |  Globo Sul" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png",Globo RBS TV Pelotas FHD
-http://smart.cdn23.click:80/leonardo4249/a980069/2328
 #EXTINF:-1 group-title="Canais |  Globo Sul" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png",Globo RBS TV Pelotas UHD
 http://smart.cdn23.click:80/leonardo4249/a980069/361015
 #EXTINF:-1 group-title="Canais |  Globo Sul" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png",Globo RBS TV Pelotas HD
@@ -1342,8 +1213,6 @@ http://smart.cdn23.click:80/leonardo4249/a980069/362042
 http://smart.cdn23.click:80/leonardo4249/a980069/2333
 #EXTINF:-1 group-title="Canais |  Globo Sul" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png",Globo RBS TV Santa Maria HD²
 http://smart.cdn23.click:80/leonardo4249/a980069/362043
-#EXTINF:-1 group-title="Canais |  Globo Sul" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png",Globo RBS TV Santa Maria SD
-http://smart.cdn23.click:80/leonardo4249/a980069/2332
 #EXTINF:-1 group-title="Canais |  Globo Sul" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png",Globo RBS TV Santa Rosa HD
 http://smart.cdn23.click:80/leonardo4249/a980069/377627
 #EXTINF:-1 group-title="Canais | Globo Norte" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png",Globo Rede Amazonica Boa Vista FHD
@@ -1368,8 +1237,6 @@ http://smart.cdn23.click:80/leonardo4249/a980069/363783
 http://smart.cdn23.click:80/leonardo4249/a980069/2356
 #EXTINF:-1 group-title="Canais | Globo Norte" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png",Globo Rede Amazonica Porto Velho UHD
 http://smart.cdn23.click:80/leonardo4249/a980069/363784
-#EXTINF:-1 group-title="Canais | Globo Norte" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png",Globo Rede Amazonica Rio Branco FHD
-http://smart.cdn23.click:80/leonardo4249/a980069/2364
 #EXTINF:-1 group-title="Canais | Globo Norte" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png",Globo Rede Amazonica Rio Branco UHD
 http://smart.cdn23.click:80/leonardo4249/a980069/363786
 #EXTINF:-1 group-title="Canais | Globo Norte" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png",Globo Rede Amazonica Rio Branco HD
@@ -1398,12 +1265,8 @@ http://smart.cdn23.click:80/leonardo4249/a980069/2345
 http://smart.cdn23.click:80/leonardo4249/a980069/362045
 #EXTINF:-1 group-title="Canais |  Globo Sul" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png",Globo RPC Londrina SD
 http://smart.cdn23.click:80/leonardo4249/a980069/2344
-#EXTINF:-1 group-title="Canais |  Globo Sul" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png",Globo RPC TV Curitiba FHD
-http://smart.cdn23.click:80/leonardo4249/a980069/2293
 #EXTINF:-1 group-title="Canais |  Globo Sul" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png",Globo RPC TV Curitiba UHD
 http://smart.cdn23.click:80/leonardo4249/a980069/360140
-#EXTINF:-1 group-title="Canais |  Globo Sul" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png",Globo RPC TV Curitiba HD
-http://smart.cdn23.click:80/leonardo4249/a980069/2292
 #EXTINF:-1 group-title="Canais |  Globo Sul" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png",Globo RPC TV Curitiba HD²
 http://smart.cdn23.click:80/leonardo4249/a980069/360675
 #EXTINF:-1 group-title="Canais |  Globo Sul" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png",Globo RPC TV Curitiba SD
@@ -1426,8 +1289,6 @@ http://smart.cdn23.click:80/leonardo4249/a980069/361011
 http://smart.cdn23.click:80/leonardo4249/a980069/2321
 #EXTINF:-1 group-title="Canais |  Globo Sul" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png",Globo RPC TV Paranavai HD²
 http://smart.cdn23.click:80/leonardo4249/a980069/361012
-#EXTINF:-1 group-title="Canais |  Globo Sul" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png",Globo RPC TV Paranavai SD
-http://smart.cdn23.click:80/leonardo4249/a980069/2320
 #EXTINF:-1 group-title="Canais |  Globo Sul" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png",Globo RPC TV Ponta Grossa FHD
 http://smart.cdn23.click:80/leonardo4249/a980069/2325
 #EXTINF:-1 group-title="Canais |  Globo Sul" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png",Globo RPC TV Ponta Grossa UHD
@@ -1462,8 +1323,6 @@ http://smart.cdn23.click:80/leonardo4249/a980069/385609
 http://smart.cdn23.click:80/leonardo4249/a980069/2425
 #EXTINF:-1 group-title="Canais | Globo Nordeste" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png",Globo TV Bahia UHD
 http://smart.cdn23.click:80/leonardo4249/a980069/362059
-#EXTINF:-1 group-title="Canais | Globo Nordeste" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png",Globo TV Bahia HD
-http://smart.cdn23.click:80/leonardo4249/a980069/2424
 #EXTINF:-1 group-title="Canais | Globo Nordeste" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png",Globo TV Bahia HD²
 http://smart.cdn23.click:80/leonardo4249/a980069/362061
 #EXTINF:-1 group-title="Canais | Globo Nordeste" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png",Globo TV Bahia SD
@@ -1516,8 +1375,6 @@ http://smart.cdn23.click:80/leonardo4249/a980069/360910
 http://smart.cdn23.click:80/leonardo4249/a980069/2394
 #EXTINF:-1 group-title="Canais | Globo Sudeste" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png",Globo TV Gazeta Vitoria HD²
 http://smart.cdn23.click:80/leonardo4249/a980069/360919
-#EXTINF:-1 group-title="Canais | Globo Sudeste" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png",Globo TV Gazeta Vitoria SD
-http://smart.cdn23.click:80/leonardo4249/a980069/2393
 #EXTINF:-1 group-title="Canais | Globo Sudeste" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png",Globo TV Integração Araxá FHD
 http://smart.cdn23.click:80/leonardo4249/a980069/389371
 #EXTINF:-1 group-title="Canais | Globo Sudeste" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png",Globo TV Integração Araxá HD
@@ -1544,8 +1401,6 @@ http://smart.cdn23.click:80/leonardo4249/a980069/2409
 http://smart.cdn23.click:80/leonardo4249/a980069/360627
 #EXTINF:-1 group-title="Canais | Globo Sudeste" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png",Globo TV Integracao Uberlandia SD
 http://smart.cdn23.click:80/leonardo4249/a980069/2408
-#EXTINF:-1 group-title="Canais | Globo Norte" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png",Globo TV Liberal Belem FHD
-http://smart.cdn23.click:80/leonardo4249/a980069/2367
 #EXTINF:-1 group-title="Canais | Globo Norte" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png",Globo TV Liberal Belem UHD
 http://smart.cdn23.click:80/leonardo4249/a980069/363788
 #EXTINF:-1 group-title="Canais | Globo Norte" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png",Globo TV Liberal Belem HD
@@ -1554,8 +1409,6 @@ http://smart.cdn23.click:80/leonardo4249/a980069/2366
 http://smart.cdn23.click:80/leonardo4249/a980069/363789
 #EXTINF:-1 group-title="Canais | Globo Norte" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png",Globo TV Liberal Belem SD
 http://smart.cdn23.click:80/leonardo4249/a980069/2365
-#EXTINF:-1 group-title="Canais | Globo Nordeste" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png",Globo TV Mirante Cocais FHD
-http://smart.cdn23.click:80/leonardo4249/a980069/2446
 #EXTINF:-1 group-title="Canais | Globo Nordeste" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png",Globo TV Mirante Cocais UHD
 http://smart.cdn23.click:80/leonardo4249/a980069/362426
 #EXTINF:-1 group-title="Canais | Globo Nordeste" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png",Globo TV Mirante Cocais HD
@@ -1582,8 +1435,6 @@ http://smart.cdn23.click:80/leonardo4249/a980069/362098
 http://smart.cdn23.click:80/leonardo4249/a980069/2442
 #EXTINF:-1 group-title="Canais | Globo Nordeste" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png",Globo TV Sergipe HD²
 http://smart.cdn23.click:80/leonardo4249/a980069/362367
-#EXTINF:-1 group-title="Canais | Globo Nordeste" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png",Globo TV Sergipe SD
-http://smart.cdn23.click:80/leonardo4249/a980069/2441
 #EXTINF:-1 group-title="Canais | Globo Nordeste" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png",Globo TV Subae FHD
 http://smart.cdn23.click:80/leonardo4249/a980069/390951
 #EXTINF:-1 group-title="Canais | Globo Nordeste" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png",Globo TV Subae UHD
@@ -1614,12 +1465,8 @@ http://smart.cdn23.click:80/leonardo4249/a980069/2418
 http://smart.cdn23.click:80/leonardo4249/a980069/362055
 #EXTINF:-1 group-title="Canais | Globo Sudeste" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png",Globo TV TEM Bauru SD
 http://smart.cdn23.click:80/leonardo4249/a980069/2417
-#EXTINF:-1 group-title="Canais | Globo Sudeste" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png",Globo TV TEM Itapetininga FHD
-http://smart.cdn23.click:80/leonardo4249/a980069/2407
 #EXTINF:-1 group-title="Canais | Globo Sudeste" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png",Globo TV TEM Itapetininga UHD
 http://smart.cdn23.click:80/leonardo4249/a980069/362057
-#EXTINF:-1 group-title="Canais | Globo Sudeste" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png",Globo TV TEM Itapetininga HD
-http://smart.cdn23.click:80/leonardo4249/a980069/2406
 #EXTINF:-1 group-title="Canais | Globo Sudeste" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png",Globo TV TEM Itapetininga HD²
 http://smart.cdn23.click:80/leonardo4249/a980069/362060
 #EXTINF:-1 group-title="Canais | Globo Sudeste" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png",Globo TV TEM Itapetininga SD
@@ -1628,8 +1475,6 @@ http://smart.cdn23.click:80/leonardo4249/a980069/2405
 http://smart.cdn23.click:80/leonardo4249/a980069/2398
 #EXTINF:-1 group-title="Canais | Globo Sudeste" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png",Globo TV TEM Sao Jose do Rio Preto UHD
 http://smart.cdn23.click:80/leonardo4249/a980069/362130
-#EXTINF:-1 group-title="Canais | Globo Sudeste" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png",Globo TV TEM Sao Jose do Rio Preto HD
-http://smart.cdn23.click:80/leonardo4249/a980069/2397
 #EXTINF:-1 group-title="Canais | Globo Sudeste" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png",Globo TV TEM Sao Jose do Rio Preto HD²
 http://smart.cdn23.click:80/leonardo4249/a980069/362425
 #EXTINF:-1 group-title="Canais | Globo Sudeste" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png",Globo TV TEM Sao Jose do Rio Preto SD
@@ -1642,8 +1487,6 @@ http://smart.cdn23.click:80/leonardo4249/a980069/362528
 http://smart.cdn23.click:80/leonardo4249/a980069/2339
 #EXTINF:-1 group-title="Canais | Globo Sudeste" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png",Globo TV TEM Sorocaba HD²
 http://smart.cdn23.click:80/leonardo4249/a980069/362529
-#EXTINF:-1 group-title="Canais | Globo Sudeste" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png",Globo TV TEM Sorocaba SD
-http://smart.cdn23.click:80/leonardo4249/a980069/2338
 #EXTINF:-1 group-title="Canais | Globo Sudeste" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png",Globo TV Tribuna Santos FHD
 http://smart.cdn23.click:80/leonardo4249/a980069/2343
 #EXTINF:-1 group-title="Canais | Globo Sudeste" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png",Globo TV Tribuna Santos UHD
@@ -1654,8 +1497,6 @@ http://smart.cdn23.click:80/leonardo4249/a980069/2342
 http://smart.cdn23.click:80/leonardo4249/a980069/362724
 #EXTINF:-1 group-title="Canais | Globo Sudeste" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png",Globo TV Tribuna Santos SD
 http://smart.cdn23.click:80/leonardo4249/a980069/2341
-#EXTINF:-1 group-title="Canais | Globo Sudeste" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png",Globo TV Vanguarda S J Campos FHD
-http://smart.cdn23.click:80/leonardo4249/a980069/2422
 #EXTINF:-1 group-title="Canais | Globo Sudeste" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png",Globo TV Vanguarda S J Campos UHD
 http://smart.cdn23.click:80/leonardo4249/a980069/362725
 #EXTINF:-1 group-title="Canais | Globo Sudeste" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png",Globo TV Vanguarda S J Campos HD
@@ -1674,8 +1515,6 @@ http://smart.cdn23.click:80/leonardo4249/a980069/2412
 http://smart.cdn23.click:80/leonardo4249/a980069/362727
 #EXTINF:-1 group-title="Canais | Globo Sudeste" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png",Globo TV Vanguarda Taubate SD
 http://smart.cdn23.click:80/leonardo4249/a980069/2411
-#EXTINF:-1 group-title="Canais | Globo Nordeste" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png",Globo TV Verdes Mares Fortaleza FHD
-http://smart.cdn23.click:80/leonardo4249/a980069/2434
 #EXTINF:-1 group-title="Canais | Globo Nordeste" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png",Globo TV Verdes Mares Fortaleza UHD
 http://smart.cdn23.click:80/leonardo4249/a980069/362063
 #EXTINF:-1 group-title="Canais | Globo Nordeste" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png",Globo TV Verdes Mares Fortaleza HD
@@ -1692,8 +1531,6 @@ http://smart.cdn23.click:80/leonardo4249/a980069/21244
 http://smart.cdn23.click:80/leonardo4249/a980069/478
 #EXTINF:-1 group-title="Canais | Noticias" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBONEWS.png",GloboNews HD²
 http://smart.cdn23.click:80/leonardo4249/a980069/380908
-#EXTINF:-1 group-title="Canais | Noticias" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBONEWS.png",GloboNews SD
-http://smart.cdn23.click:80/leonardo4249/a980069/477
 #EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png",HBO + FHD
 http://smart.cdn23.click:80/leonardo4249/a980069/18763
 #EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png",HBO + UHD
@@ -1704,8 +1541,6 @@ http://smart.cdn23.click:80/leonardo4249/a980069/18764
 http://smart.cdn23.click:80/leonardo4249/a980069/18765
 #EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png",HBO +SD
 http://smart.cdn23.click:80/leonardo4249/a980069/18766
-#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png",HBO 2 FHD
-http://smart.cdn23.click:80/leonardo4249/a980069/18755
 #EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png",HBO 2 UHD
 http://smart.cdn23.click:80/leonardo4249/a980069/21246
 #EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png",HBO 2 HD
@@ -1754,8 +1589,6 @@ http://smart.cdn23.click:80/leonardo4249/a980069/21256
 http://smart.cdn23.click:80/leonardo4249/a980069/18780
 #EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png",HBO POP HD²
 http://smart.cdn23.click:80/leonardo4249/a980069/18781
-#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png",HBO POP SD
-http://smart.cdn23.click:80/leonardo4249/a980069/18782
 #EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png",HBO SIGNATURE FHD
 http://smart.cdn23.click:80/leonardo4249/a980069/18767
 #EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png",HBO SIGNATURE UHD
@@ -1770,8 +1603,6 @@ http://smart.cdn23.click:80/leonardo4249/a980069/18770
 http://smart.cdn23.click:80/leonardo4249/a980069/18775
 #EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png",HBO XTREME UHD
 http://smart.cdn23.click:80/leonardo4249/a980069/21255
-#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png",HBO XTREME HD
-http://smart.cdn23.click:80/leonardo4249/a980069/18776
 #EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png",HBO XTREME HD²
 http://smart.cdn23.click:80/leonardo4249/a980069/18777
 #EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png",HBO XTREME SD
@@ -1788,14 +1619,10 @@ http://smart.cdn23.click:80/leonardo4249/a980069/2625
 http://smart.cdn23.click:80/leonardo4249/a980069/2626
 #EXTINF:-1 group-title="Canais | Documentarios" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HGTV.png",HGTV SD
 http://smart.cdn23.click:80/leonardo4249/a980069/2624
-#EXTINF:-1 group-title="Canais | Documentarios" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HISTORY.png",History 2 FHD
-http://smart.cdn23.click:80/leonardo4249/a980069/2622
 #EXTINF:-1 group-title="Canais | Documentarios" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HISTORY.png",History 2 UHD
 http://smart.cdn23.click:80/leonardo4249/a980069/21322
 #EXTINF:-1 group-title="Canais | Documentarios" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HISTORY.png",History 2 HD
 http://smart.cdn23.click:80/leonardo4249/a980069/2620
-#EXTINF:-1 group-title="Canais | Documentarios" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HISTORY.png",History 2 SD
-http://smart.cdn23.click:80/leonardo4249/a980069/2619
 #EXTINF:-1 group-title="Canais | Documentarios" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HISTORY.png",History FHD
 http://smart.cdn23.click:80/leonardo4249/a980069/2617
 #EXTINF:-1 group-title="Canais | Documentarios" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HISTORY.png",History UHD
@@ -1804,10 +1631,6 @@ http://smart.cdn23.click:80/leonardo4249/a980069/59173
 http://smart.cdn23.click:80/leonardo4249/a980069/2615
 #EXTINF:-1 group-title="Canais | Documentarios" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HISTORY.png",History HD²
 http://smart.cdn23.click:80/leonardo4249/a980069/2616
-#EXTINF:-1 group-title="Canais | Documentarios" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HISTORY.png",History SD
-http://smart.cdn23.click:80/leonardo4249/a980069/2614
-#EXTINF:-1 group-title="Canais | Documentarios" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ID.png",ID FHD
-http://smart.cdn23.click:80/leonardo4249/a980069/2632
 #EXTINF:-1 group-title="Canais | Documentarios" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ID.png",ID UHD
 http://smart.cdn23.click:80/leonardo4249/a980069/21323
 #EXTINF:-1 group-title="Canais | Documentarios" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ID.png",ID HD
@@ -1854,8 +1677,6 @@ http://smart.cdn23.click:80/leonardo4249/a980069/690
 http://smart.cdn23.click:80/leonardo4249/a980069/691
 #EXTINF:-1 group-title="Canais | Filmes & Series" tvg-logo="http://app.tvdigital.link:2095/logoscanais/MEGAPIX.png",Megapix SD
 http://smart.cdn23.click:80/leonardo4249/a980069/689
-#EXTINF:-1 group-title="Canais |  Variedades" tvg-logo="http://app.tvdigital.link:2095/logoscanais/MODOVIAGEM.png",Modo Viagem FHD
-http://smart.cdn23.click:80/leonardo4249/a980069/89181
 #EXTINF:-1 group-title="Canais |  Variedades" tvg-logo="http://app.tvdigital.link:2095/logoscanais/MODOVIAGEM.png",Modo Viagem HD
 http://smart.cdn23.click:80/leonardo4249/a980069/89182
 #EXTINF:-1 group-title="Canais |  Variedades" tvg-logo="http://app.tvdigital.link:2095/logoscanais/MODOVIAGEM.png",Modo Viagem SD
@@ -1882,18 +1703,12 @@ http://smart.cdn23.click:80/leonardo4249/a980069/2510
 http://smart.cdn23.click:80/leonardo4249/a980069/21289
 #EXTINF:-1 group-title="Canais |  Variedades" tvg-logo="http://app.tvdigital.link:2095/logoscanais/MUSICBOXBRAZIL.png",Music Box Brazil FHD
 http://smart.cdn23.click:80/leonardo4249/a980069/2520
-#EXTINF:-1 group-title="Canais | Infantil" tvg-logo="http://app.tvdigital.link:2095/logoscanais/NICKJR.png",Nick Jr. FHD
-http://smart.cdn23.click:80/leonardo4249/a980069/368
 #EXTINF:-1 group-title="Canais | Infantil" tvg-logo="http://app.tvdigital.link:2095/logoscanais/NICKJR.png",Nick Jr. UHD
 http://smart.cdn23.click:80/leonardo4249/a980069/367321
 #EXTINF:-1 group-title="Canais | Infantil" tvg-logo="http://app.tvdigital.link:2095/logoscanais/NICKJR.png",Nick Jr. HD
 http://smart.cdn23.click:80/leonardo4249/a980069/367
 #EXTINF:-1 group-title="Canais | Infantil" tvg-logo="http://app.tvdigital.link:2095/logoscanais/NICKJR.png",Nick Jr. HD²
 http://smart.cdn23.click:80/leonardo4249/a980069/367322
-#EXTINF:-1 group-title="Canais | Infantil" tvg-logo="http://app.tvdigital.link:2095/logoscanais/NICKJR.png",Nick Jr. SD
-http://smart.cdn23.click:80/leonardo4249/a980069/366
-#EXTINF:-1 group-title="Canais | Infantil" tvg-logo="http://app.tvdigital.link:2095/logoscanais/NICKELODEON.png",Nickelodeon FHD
-http://smart.cdn23.click:80/leonardo4249/a980069/372
 #EXTINF:-1 group-title="Canais | Infantil" tvg-logo="http://app.tvdigital.link:2095/logoscanais/NICKELODEON.png",Nickelodeon UHD
 http://smart.cdn23.click:80/leonardo4249/a980069/21263
 #EXTINF:-1 group-title="Canais | Infantil" tvg-logo="http://app.tvdigital.link:2095/logoscanais/NICKELODEON.png",Nickelodeon HD
@@ -1910,10 +1725,6 @@ http://smart.cdn23.click:80/leonardo4249/a980069/253
 http://smart.cdn23.click:80/leonardo4249/a980069/21264
 #EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://app.tvdigital.link:2095/logoscanais/OFF.png",OFF HD
 http://smart.cdn23.click:80/leonardo4249/a980069/252
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://app.tvdigital.link:2095/logoscanais/OFF.png",OFF SD
-http://smart.cdn23.click:80/leonardo4249/a980069/251
-#EXTINF:-1 group-title="Canais |  Religiosos" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TVPAIETERNO.png",Pai Eterno FHD
-http://smart.cdn23.click:80/leonardo4249/a980069/206
 #EXTINF:-1 group-title="Canais | Filmes & Series" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PARAMOUNTNETWORK.png",Paramount Network FHD
 http://smart.cdn23.click:80/leonardo4249/a980069/697
 #EXTINF:-1 group-title="Canais | Filmes & Series" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PARAMOUNTNETWORK.png",Paramount Network UHD
@@ -1922,8 +1733,6 @@ http://smart.cdn23.click:80/leonardo4249/a980069/21265
 http://smart.cdn23.click:80/leonardo4249/a980069/695
 #EXTINF:-1 group-title="Canais | Filmes & Series" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PARAMOUNTNETWORK.png",Paramount Network HD²
 http://smart.cdn23.click:80/leonardo4249/a980069/696
-#EXTINF:-1 group-title="Canais | Filmes & Series" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PARAMOUNTNETWORK.png",Paramount Network SD
-http://smart.cdn23.click:80/leonardo4249/a980069/694
 #EXTINF:-1 group-title="Canais |  Variedades" tvg-logo="http://app.tvdigital.link:2095/logoscanais/POLISHOP.png",Polishop TV HD
 http://smart.cdn23.click:80/leonardo4249/a980069/2522
 #EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png",Premiere Clubes FHD
@@ -1944,16 +1753,12 @@ http://smart.cdn23.click:80/leonardo4249/a980069/499
 http://smart.cdn23.click:80/leonardo4249/a980069/127882
 #EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png",Premiere 2 UHD
 http://smart.cdn23.click:80/leonardo4249/a980069/21266
-#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png",Premiere 2 HD
-http://smart.cdn23.click:80/leonardo4249/a980069/497
 #EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png",Premiere 2 HD²
 http://smart.cdn23.click:80/leonardo4249/a980069/498
 #EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png",Premiere 2 SD
 http://smart.cdn23.click:80/leonardo4249/a980069/496
 #EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png",Premiere 3 FHD
 http://smart.cdn23.click:80/leonardo4249/a980069/504
-#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png",Premiere 3 H265
-http://smart.cdn23.click:80/leonardo4249/a980069/360924
 #EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png",Premiere 3 UHD
 http://smart.cdn23.click:80/leonardo4249/a980069/21267
 #EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png",Premiere 3 HD
@@ -1970,12 +1775,8 @@ http://smart.cdn23.click:80/leonardo4249/a980069/360925
 http://smart.cdn23.click:80/leonardo4249/a980069/507
 #EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png",Premiere 4 HD²
 http://smart.cdn23.click:80/leonardo4249/a980069/508
-#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png",Premiere 4 SD
-http://smart.cdn23.click:80/leonardo4249/a980069/506
 #EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png",Premiere 5 FHD
 http://smart.cdn23.click:80/leonardo4249/a980069/514
-#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png",Premiere 5 H265
-http://smart.cdn23.click:80/leonardo4249/a980069/360926
 #EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png",Premiere 5 UHD
 http://smart.cdn23.click:80/leonardo4249/a980069/21268
 #EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png",Premiere 5 HD
@@ -1994,8 +1795,6 @@ http://smart.cdn23.click:80/leonardo4249/a980069/21328
 http://smart.cdn23.click:80/leonardo4249/a980069/518
 #EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png",Premiere 6 SD
 http://smart.cdn23.click:80/leonardo4249/a980069/516
-#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png",Premiere 7 FHD
-http://smart.cdn23.click:80/leonardo4249/a980069/524
 #EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png",Premiere 7 H265
 http://smart.cdn23.click:80/leonardo4249/a980069/360928
 #EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png",Premiere 7 UHD
@@ -2010,16 +1809,12 @@ http://smart.cdn23.click:80/leonardo4249/a980069/521
 http://smart.cdn23.click:80/leonardo4249/a980069/380748
 #EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png",Premiere 8 HD
 http://smart.cdn23.click:80/leonardo4249/a980069/380749
-#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png",Premiere 8 SD
-http://smart.cdn23.click:80/leonardo4249/a980069/526
 #EXTINF:-1 group-title="Canais |  Variedades" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PRIMEBOXBRAZIL.png",Prime Box Brazil FHD
 http://smart.cdn23.click:80/leonardo4249/a980069/2525
 #EXTINF:-1 group-title="Canais |  Variedades" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PRIMEBOXBRAZIL.png",Prime Box Brazil HD
 http://smart.cdn23.click:80/leonardo4249/a980069/2523
 #EXTINF:-1 group-title="Canais |  Variedades" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PRIMEBOXBRAZIL.png",Prime Box Brazil SD
 http://smart.cdn23.click:80/leonardo4249/a980069/2524
-#EXTINF:-1 group-title="Canais | Noticias" tvg-logo="http://app.tvdigital.link:2095/logoscanais/RECORDNEWS.png",Record News FHD
-http://smart.cdn23.click:80/leonardo4249/a980069/488
 #EXTINF:-1 group-title="Canais | Noticias" tvg-logo="http://app.tvdigital.link:2095/logoscanais/RECORDNEWS.png",Record News UHD
 http://smart.cdn23.click:80/leonardo4249/a980069/118889
 #EXTINF:-1 group-title="Canais | Noticias" tvg-logo="http://app.tvdigital.link:2095/logoscanais/RECORDNEWS.png",Record News HD²
@@ -2032,8 +1827,6 @@ http://smart.cdn23.click:80/leonardo4249/a980069/193
 http://smart.cdn23.click:80/leonardo4249/a980069/198
 #EXTINF:-1 group-title="Canais |  Religiosos" tvg-logo="http://app.tvdigital.link:2095/logoscanais/REDEVIDA.png",Rede Vida UHD
 http://smart.cdn23.click:80/leonardo4249/a980069/369199
-#EXTINF:-1 group-title="Canais |  Religiosos" tvg-logo="http://app.tvdigital.link:2095/logoscanais/REDEVIDA.png",Rede Vida HD
-http://smart.cdn23.click:80/leonardo4249/a980069/197
 #EXTINF:-1 group-title="Canais |  Religiosos" tvg-logo="http://app.tvdigital.link:2095/logoscanais/REDEVIDA.png",Rede Vida HD²
 http://smart.cdn23.click:80/leonardo4249/a980069/369200
 #EXTINF:-1 group-title="Canais |  Religiosos" tvg-logo="http://app.tvdigital.link:2095/logoscanais/REDEVIDA.png",Rede Vida SD
@@ -2054,8 +1847,6 @@ http://smart.cdn23.click:80/leonardo4249/a980069/704
 http://smart.cdn23.click:80/leonardo4249/a980069/598
 #EXTINF:-1 group-title="Canais | Star Channel" tvg-logo="http://app.tvdigital.link:2095/logoscanais/STARCHANNEL.png",Star Channel UHD
 http://smart.cdn23.click:80/leonardo4249/a980069/21238
-#EXTINF:-1 group-title="Canais | Star Channel" tvg-logo="http://app.tvdigital.link:2095/logoscanais/STARCHANNEL.png",Star Channel SD
-http://smart.cdn23.click:80/leonardo4249/a980069/596
 #EXTINF:-1 group-title="Canais | Star Channel" tvg-logo="http://app.tvdigital.link:2095/logoscanais/cinecanal.png",Cinecanal FHD
 http://smart.cdn23.click:80/leonardo4249/a980069/602
 #EXTINF:-1 group-title="Canais | Star Channel" tvg-logo="http://app.tvdigital.link:2095/logoscanais/cinecanal.png",Cinecanal UHD
@@ -2090,8 +1881,6 @@ http://smart.cdn23.click:80/leonardo4249/a980069/721
 http://smart.cdn23.click:80/leonardo4249/a980069/722
 #EXTINF:-1 group-title="Canais | Filmes & Series" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TBS.png",TBS SD
 http://smart.cdn23.click:80/leonardo4249/a980069/720
-#EXTINF:-1 group-title="Canais | Filmes & Series" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TCM.png",TCM FHD
-http://smart.cdn23.click:80/leonardo4249/a980069/740
 #EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png",Telecine Action FHD
 http://smart.cdn23.click:80/leonardo4249/a980069/615
 #EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png",Telecine Action UHD
@@ -2100,8 +1889,6 @@ http://smart.cdn23.click:80/leonardo4249/a980069/21279
 http://smart.cdn23.click:80/leonardo4249/a980069/613
 #EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png",Telecine Action HD²
 http://smart.cdn23.click:80/leonardo4249/a980069/614
-#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png",Telecine Action SD
-http://smart.cdn23.click:80/leonardo4249/a980069/612
 #EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png",Telecine Cult FHD
 http://smart.cdn23.click:80/leonardo4249/a980069/620
 #EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png",Telecine Cult UHD
@@ -2126,8 +1913,6 @@ http://smart.cdn23.click:80/leonardo4249/a980069/622
 http://smart.cdn23.click:80/leonardo4249/a980069/630
 #EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png",Telecine Pipoca UHD
 http://smart.cdn23.click:80/leonardo4249/a980069/21282
-#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png",Telecine Pipoca HD
-http://smart.cdn23.click:80/leonardo4249/a980069/628
 #EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png",Telecine Pipoca HD²
 http://smart.cdn23.click:80/leonardo4249/a980069/629
 #EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png",Telecine Pipoca SD
@@ -2160,8 +1945,6 @@ http://smart.cdn23.click:80/leonardo4249/a980069/21349
 http://smart.cdn23.click:80/leonardo4249/a980069/726
 #EXTINF:-1 group-title="Canais | Filmes & Series" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TLC.png",TLC HD²
 http://smart.cdn23.click:80/leonardo4249/a980069/727
-#EXTINF:-1 group-title="Canais | Filmes & Series" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TLC.png",TLC SD
-http://smart.cdn23.click:80/leonardo4249/a980069/725
 #EXTINF:-1 group-title="Canais | Filmes & Series" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TNT.png",TNT FHD
 http://smart.cdn23.click:80/leonardo4249/a980069/733
 #EXTINF:-1 group-title="Canais | Filmes & Series" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TNT.png",TNT UHD
@@ -2180,18 +1963,12 @@ http://smart.cdn23.click:80/leonardo4249/a980069/736
 http://smart.cdn23.click:80/leonardo4249/a980069/737
 #EXTINF:-1 group-title="Canais | Filmes & Series" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TNTSERIES.png",TNT Series SD
 http://smart.cdn23.click:80/leonardo4249/a980069/735
-#EXTINF:-1 group-title="Canais |  Variedades" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TRACEBAZUCA.png",Trace Brazuca FHD
-http://smart.cdn23.click:80/leonardo4249/a980069/2533
 #EXTINF:-1 group-title="Canais |  Variedades" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TRACEBAZUCA.png",Trace Brazuca HD
 http://smart.cdn23.click:80/leonardo4249/a980069/2532
-#EXTINF:-1 group-title="Canais |  Variedades" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TRACEBAZUCA.png",Trace Brazuca SD
-http://smart.cdn23.click:80/leonardo4249/a980069/2531
 #EXTINF:-1 group-title="Canais |  Variedades" tvg-logo="http://app.tvdigital.link:2095/logoscanais/Tbb.png",Travel Box Brasil FHD
 http://smart.cdn23.click:80/leonardo4249/a980069/376353
 #EXTINF:-1 group-title="Canais |  Variedades" tvg-logo="http://app.tvdigital.link:2095/logoscanais/Tbb.png",Travel Box Brasil HD
 http://smart.cdn23.click:80/leonardo4249/a980069/376354
-#EXTINF:-1 group-title="Canais |  Variedades" tvg-logo="http://app.tvdigital.link:2095/logoscanais/Tbb.png",Travel Box Brasil SD
-http://smart.cdn23.click:80/leonardo4249/a980069/376355
 #EXTINF:-1 group-title="Canais | Documentarios" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TRUTV.png",Tru TV FHD
 http://smart.cdn23.click:80/leonardo4249/a980069/2642
 #EXTINF:-1 group-title="Canais | Documentarios" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TRUTV.png",Tru TV HD
@@ -2204,8 +1981,6 @@ http://smart.cdn23.click:80/leonardo4249/a980069/369197
 http://smart.cdn23.click:80/leonardo4249/a980069/189
 #EXTINF:-1 group-title="Canais |  Religiosos" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TVAPARECIDA.png",TV Aparecida HD²
 http://smart.cdn23.click:80/leonardo4249/a980069/369198
-#EXTINF:-1 group-title="Canais |  Religiosos" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TVAPARECIDA.png",TV Aparecida SD
-http://smart.cdn23.click:80/leonardo4249/a980069/188
 #EXTINF:-1 group-title="Canais |  Abertos" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TVDIARIO.png",TV Diario FHD
 http://smart.cdn23.click:80/leonardo4249/a980069/171
 #EXTINF:-1 group-title="Canais |  Abertos" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TVDIARIO.png",TV Diario HD
@@ -2344,8 +2119,6 @@ http://smart.cdn23.click:80/leonardo4249/a980069/121600
 http://smart.cdn23.click:80/leonardo4249/a980069/121601
 #EXTINF:-1 group-title="Canais | HBO MAX" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBOMAX.png",HBO Max 2 UHD
 http://smart.cdn23.click:80/leonardo4249/a980069/367120
-#EXTINF:-1 group-title="Canais | HBO MAX" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBOMAX.png",HBO Max 2 HD
-http://smart.cdn23.click:80/leonardo4249/a980069/121602
 #EXTINF:-1 group-title="Canais | HBO MAX" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBOMAX.png",HBO Max 2 HD²
 http://smart.cdn23.click:80/leonardo4249/a980069/367121
 #EXTINF:-1 group-title="Canais | HBO MAX" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBOMAX.png",HBO Max 3 FHD
@@ -2372,8 +2145,6 @@ http://smart.cdn23.click:80/leonardo4249/a980069/121613
 http://smart.cdn23.click:80/leonardo4249/a980069/367124
 #EXTINF:-1 group-title="Canais | HBO MAX" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBOMAX.png",HBO Max 5 HD
 http://smart.cdn23.click:80/leonardo4249/a980069/121614
-#EXTINF:-1 group-title="Canais | HBO MAX" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBOMAX.png",HBO Max 5 SD
-http://smart.cdn23.click:80/leonardo4249/a980069/121615
 #EXTINF:-1 group-title="Canais | HBO MAX" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBOMAX.png",HBO Max 6 FHD
 http://smart.cdn23.click:80/leonardo4249/a980069/121616
 #EXTINF:-1 group-title="Canais | HBO MAX" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBOMAX.png",HBO Max 6 H265
@@ -2412,20 +2183,14 @@ http://smart.cdn23.click:80/leonardo4249/a980069/362745
 http://smart.cdn23.click:80/leonardo4249/a980069/214260
 #EXTINF:-1 group-title="Canais |  Religiosos" tvg-logo="http://app.tvdigital.link:2095/logoscanais/REDESUPER.png",Rede Super UHD
 http://smart.cdn23.click:80/leonardo4249/a980069/369203
-#EXTINF:-1 group-title="Canais |  Religiosos" tvg-logo="http://app.tvdigital.link:2095/logoscanais/REDESUPER.png",Rede Super HD
-http://smart.cdn23.click:80/leonardo4249/a980069/214261
 #EXTINF:-1 group-title="Canais |  Religiosos" tvg-logo="http://app.tvdigital.link:2095/logoscanais/REDESUPER.png",Rede Super HD²
 http://smart.cdn23.click:80/leonardo4249/a980069/369204
-#EXTINF:-1 group-title="Canais | Globo Nordeste" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png",Globo TV Clube Teresina FHD
-http://smart.cdn23.click:80/leonardo4249/a980069/215610
 #EXTINF:-1 group-title="Canais | Globo Nordeste" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png",Globo TV Clube Teresina UHD
 http://smart.cdn23.click:80/leonardo4249/a980069/362753
 #EXTINF:-1 group-title="Canais | Globo Nordeste" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png",Globo TV Clube Teresina HD
 http://smart.cdn23.click:80/leonardo4249/a980069/215611
 #EXTINF:-1 group-title="Canais | Globo Nordeste" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png",Globo TV Clube Teresina HD²
 http://smart.cdn23.click:80/leonardo4249/a980069/362797
-#EXTINF:-1 group-title="Canais | Globo Nordeste" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png",Globo TV Clube Teresina SD
-http://smart.cdn23.click:80/leonardo4249/a980069/215612
 #EXTINF:-1 group-title="Canais |  Religiosos" tvg-logo="http://app.tvdigital.link:2095/logoscanais/REDESECULO21.png",Rede Seculo 21 SD
 http://smart.cdn23.click:80/leonardo4249/a980069/216621
 #EXTINF:-1 group-title="Canais | Pay-per-view" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DAZN.png",DAZN 1 FHD
@@ -2434,20 +2199,14 @@ http://smart.cdn23.click:80/leonardo4249/a980069/229981
 http://smart.cdn23.click:80/leonardo4249/a980069/229982
 #EXTINF:-1 group-title="Canais | Pay-per-view" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DAZN.png",DAZN 1 HD
 http://smart.cdn23.click:80/leonardo4249/a980069/229983
-#EXTINF:-1 group-title="Canais | Pay-per-view" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DAZN.png",DAZN 2 FHD
-http://smart.cdn23.click:80/leonardo4249/a980069/229984
 #EXTINF:-1 group-title="Canais | Pay-per-view" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DAZN.png",DAZN 2 HD
 http://smart.cdn23.click:80/leonardo4249/a980069/229985
 #EXTINF:-1 group-title="Canais | Pay-per-view" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DAZN.png",DAZN3
 http://smart.cdn23.click:80/leonardo4249/a980069/229988
-#EXTINF:-1 group-title="Canais | Pay-per-view" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DAZN.png",DAZN4
-http://smart.cdn23.click:80/leonardo4249/a980069/229989
 #EXTINF:-1 group-title="Canais | Pay-per-view" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DAZN.png",DAZN5
 http://smart.cdn23.click:80/leonardo4249/a980069/229990
 #EXTINF:-1 group-title="Canais | Pay-per-view" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DAZN.png",DAZN6
 http://smart.cdn23.click:80/leonardo4249/a980069/229991
-#EXTINF:-1 group-title="Canais | Globo Sudeste" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png",Globo Inter TV Serra Mar FHD
-http://smart.cdn23.click:80/leonardo4249/a980069/230061
 #EXTINF:-1 group-title="Canais | Globo Sudeste" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png",Globo Inter TV Serra Mar UHD
 http://smart.cdn23.click:80/leonardo4249/a980069/359044
 #EXTINF:-1 group-title="Canais | Globo Sudeste" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png",Globo Inter TV Serra Mar HD
@@ -2496,8 +2255,6 @@ http://smart.cdn23.click:80/leonardo4249/a980069/232245
 http://smart.cdn23.click:80/leonardo4249/a980069/232246
 #EXTINF:-1 group-title="Canais | Disney Sports" tvg-logo="http://app.tvdigital.link:2095/logoscanais/disneyplus.png",Disney + 6 FHD
 http://smart.cdn23.click:80/leonardo4249/a980069/232247
-#EXTINF:-1 group-title="Canais | Pay-per-view" tvg-logo="https://canalgoat.com.br/img/logo-composite.png",GOAT 1 HD
-http://smart.cdn23.click:80/leonardo4249/a980069/233913
 #EXTINF:-1 group-title="Canais | Pay-per-view" tvg-logo="https://canalgoat.com.br/img/logo-composite.png",GOAT2 HD
 http://smart.cdn23.click:80/leonardo4249/a980069/233914
 #EXTINF:-1 group-title="Canais | Pay-per-view" tvg-logo="https://expertdigital.net/wp-content/uploads/2020/05/Como-obter-mais-visualiza%C3%A7%C3%B5es-no-YouTube.jpg",Jogos do youtube HD
@@ -2526,8 +2283,6 @@ http://smart.cdn23.click:80/leonardo4249/a980069/239901
 http://smart.cdn23.click:80/leonardo4249/a980069/240805
 #EXTINF:-1 group-title="Canais |  Religiosos" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CANCAONOVA.png",Canção Nova HD²
 http://smart.cdn23.click:80/leonardo4249/a980069/369206
-#EXTINF:-1 group-title="Canais |  Religiosos" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CANCAONOVA.png",Canção Nova FHD
-http://smart.cdn23.click:80/leonardo4249/a980069/240806
 #EXTINF:-1 group-title="Canais |  Religiosos" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CANCAONOVA.png",Canção Nova UHD
 http://smart.cdn23.click:80/leonardo4249/a980069/369205
 #EXTINF:-1 group-title="Canais | Record" tvg-logo="http://app.tvdigital.link:2095/logoscanais/RECORDTV.png",Record Itajai HD
@@ -2538,8 +2293,6 @@ http://smart.cdn23.click:80/leonardo4249/a980069/244071
 http://smart.cdn23.click:80/leonardo4249/a980069/244073
 #EXTINF:-1 group-title="Canais | 4K" tvg-logo="http://app.tvdigital.link:2095/logoscanais/RECORDTV.png",RecordSP 4K
 http://smart.cdn23.click:80/leonardo4249/a980069/244074
-#EXTINF:-1 group-title="Canais | Record" tvg-logo="http://app.tvdigital.link:2095/logoscanais/RECORDTV.png",RecordTV SP HD
-http://smart.cdn23.click:80/leonardo4249/a980069/244075
 #EXTINF:-1 group-title="Canais | Record" tvg-logo="http://app.tvdigital.link:2095/logoscanais/RECORDTV.png",RecordTV SP HD²
 http://smart.cdn23.click:80/leonardo4249/a980069/244076
 #EXTINF:-1 group-title="Canais | Record" tvg-logo="http://app.tvdigital.link:2095/logoscanais/RECORDTV.png",RecordTV SP HD²²
@@ -2604,16 +2357,12 @@ http://smart.cdn23.click:80/leonardo4249/a980069/244099
 http://smart.cdn23.click:80/leonardo4249/a980069/367059
 #EXTINF:-1 group-title="Canais | Record" tvg-logo="http://app.tvdigital.link:2095/logoscanais/RECORDTV.png",RecordTV MINAS SD
 http://smart.cdn23.click:80/leonardo4249/a980069/244101
-#EXTINF:-1 group-title="Canais | Record" tvg-logo="http://app.tvdigital.link:2095/logoscanais/RECORDTV.png",RecordTV BA HD
-http://smart.cdn23.click:80/leonardo4249/a980069/244104
 #EXTINF:-1 group-title="Canais | Record" tvg-logo="http://app.tvdigital.link:2095/logoscanais/RECORDTV.png",RecordTV  BH HD
 http://smart.cdn23.click:80/leonardo4249/a980069/244106
 #EXTINF:-1 group-title="Canais | Record" tvg-logo="http://app.tvdigital.link:2095/logoscanais/RECORDTV.png",RecordTV RS FHD
 http://smart.cdn23.click:80/leonardo4249/a980069/244107
 #EXTINF:-1 group-title="Canais | Record" tvg-logo="http://app.tvdigital.link:2095/logoscanais/RECORDTV.png",RecordTV RS UHD
 http://smart.cdn23.click:80/leonardo4249/a980069/244108
-#EXTINF:-1 group-title="Canais | Record" tvg-logo="http://app.tvdigital.link:2095/logoscanais/RECORDTV.png",RecordTV RS HD
-http://smart.cdn23.click:80/leonardo4249/a980069/244109
 #EXTINF:-1 group-title="Canais | Record" tvg-logo="http://app.tvdigital.link:2095/logoscanais/RECORDTV.png",RecordTV RS HD²
 http://smart.cdn23.click:80/leonardo4249/a980069/367060
 #EXTINF:-1 group-title="Canais | Record" tvg-logo="http://app.tvdigital.link:2095/logoscanais/RECORDTV.png",RecordTV RS SD
@@ -2762,8 +2511,6 @@ http://smart.cdn23.click:80/leonardo4249/a980069/366598
 http://smart.cdn23.click:80/leonardo4249/a980069/244172
 #EXTINF:-1 group-title="Canais | SBT" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SBT.png",SBT DF HD²
 http://smart.cdn23.click:80/leonardo4249/a980069/366599
-#EXTINF:-1 group-title="Canais | SBT" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SBT.png",SBT RIO FHD
-http://smart.cdn23.click:80/leonardo4249/a980069/244173
 #EXTINF:-1 group-title="Canais | SBT" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SBT.png",SBT RIO UHD
 http://smart.cdn23.click:80/leonardo4249/a980069/366600
 #EXTINF:-1 group-title="Canais | SBT" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SBT.png",SBT RIO HD
@@ -2812,14 +2559,10 @@ http://smart.cdn23.click:80/leonardo4249/a980069/244188
 http://smart.cdn23.click:80/leonardo4249/a980069/366953
 #EXTINF:-1 group-title="Canais | SBT" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SBT.png",SBT - REDE MASSA NAIPI (PR) HD
 http://smart.cdn23.click:80/leonardo4249/a980069/244195
-#EXTINF:-1 group-title="Canais | SBT" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SBT.png",SBT INTERIOR HD
-http://smart.cdn23.click:80/leonardo4249/a980069/377245
 #EXTINF:-1 group-title="Canais | SBT" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SBT.png",SBT TV JORNAL RECIFE HD
 http://smart.cdn23.click:80/leonardo4249/a980069/393793
 #EXTINF:-1 group-title="Canais | SBT" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SBT.png",SBT TV ARATU -BAHIA HD
 http://smart.cdn23.click:80/leonardo4249/a980069/377246
-#EXTINF:-1 group-title="Canais | SBT" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SBT.png",SBT TV JANGADEIRO -CEARA
-http://smart.cdn23.click:80/leonardo4249/a980069/377247
 #EXTINF:-1 group-title="Canais | SBT" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SBT.png",SCC (SBT)HD
 http://smart.cdn23.click:80/leonardo4249/a980069/244197
 #EXTINF:-1 group-title="Canais | Noticias" tvg-logo="http://app.tvdigital.link:2095/logoscanais/NHKWORLDJAPAN.png",NHK HD
@@ -2832,32 +2575,16 @@ http://smart.cdn23.click:80/leonardo4249/a980069/253331
 http://smart.cdn23.click:80/leonardo4249/a980069/254078
 #EXTINF:-1 group-title="Canais | NBA League Pass" tvg-logo="http://app.tvdigital.link:2095/logoscanais/NBALEAGUEPASS.png",NBA League Pass 01  HD
 http://smart.cdn23.click:80/leonardo4249/a980069/254079
-#EXTINF:-1 group-title="Canais | NBA League Pass" tvg-logo="http://app.tvdigital.link:2095/logoscanais/NBALEAGUEPASS.png",NBA League Pass 02  HD
-http://smart.cdn23.click:80/leonardo4249/a980069/254080
-#EXTINF:-1 group-title="Canais | NBA League Pass" tvg-logo="http://app.tvdigital.link:2095/logoscanais/NBALEAGUEPASS.png",NBA League Pass 03  HD
-http://smart.cdn23.click:80/leonardo4249/a980069/254081
 #EXTINF:-1 group-title="Canais | NBA League Pass" tvg-logo="http://app.tvdigital.link:2095/logoscanais/NBALEAGUEPASS.png",NBA League Pass 04  HD
 http://smart.cdn23.click:80/leonardo4249/a980069/254082
-#EXTINF:-1 group-title="Canais | NBA League Pass" tvg-logo="http://app.tvdigital.link:2095/logoscanais/NBALEAGUEPASS.png",NBA League Pass 05  HD
-http://smart.cdn23.click:80/leonardo4249/a980069/254083
 #EXTINF:-1 group-title="Canais | NBA League Pass" tvg-logo="http://app.tvdigital.link:2095/logoscanais/NBALEAGUEPASS.png",NBA League Pass 06  HD
 http://smart.cdn23.click:80/leonardo4249/a980069/254084
-#EXTINF:-1 group-title="Canais | NBA League Pass" tvg-logo="http://app.tvdigital.link:2095/logoscanais/NBALEAGUEPASS.png",NBA League Pass 07  HD
-http://smart.cdn23.click:80/leonardo4249/a980069/254085
-#EXTINF:-1 group-title="Canais | NBA League Pass" tvg-logo="http://app.tvdigital.link:2095/logoscanais/NBALEAGUEPASS.png",NBA League Pass 08  HD
-http://smart.cdn23.click:80/leonardo4249/a980069/254086
-#EXTINF:-1 group-title="Canais | NBA League Pass" tvg-logo="http://app.tvdigital.link:2095/logoscanais/NBALEAGUEPASS.png",NBA League Pass 09  HD
-http://smart.cdn23.click:80/leonardo4249/a980069/254087
-#EXTINF:-1 group-title="Canais | NBA League Pass" tvg-logo="http://app.tvdigital.link:2095/logoscanais/NBALEAGUEPASS.png",NBA League Pass 10  HD
-http://smart.cdn23.click:80/leonardo4249/a980069/254088
 #EXTINF:-1 group-title="Canais | NBA League Pass" tvg-logo="http://app.tvdigital.link:2095/logoscanais/NBALEAGUEPASS.png",NBA League Pass 11  HD
 http://smart.cdn23.click:80/leonardo4249/a980069/254089
 #EXTINF:-1 group-title="Canais | NBA League Pass" tvg-logo="http://app.tvdigital.link:2095/logoscanais/NBALEAGUEPASS.png",NBA League Pass 12  HD
 http://smart.cdn23.click:80/leonardo4249/a980069/254090
 #EXTINF:-1 group-title="Canais | NBA League Pass" tvg-logo="http://app.tvdigital.link:2095/logoscanais/NBALEAGUEPASS.png",NBA League Pass 13  HD
 http://smart.cdn23.click:80/leonardo4249/a980069/254091
-#EXTINF:-1 group-title="Canais | NBA League Pass" tvg-logo="http://app.tvdigital.link:2095/logoscanais/NBALEAGUEPASS.png",NBA League Pass 14  HD
-http://smart.cdn23.click:80/leonardo4249/a980069/254092
 #EXTINF:-1 group-title="Canais | NBA League Pass" tvg-logo="http://app.tvdigital.link:2095/logoscanais/NBALEAGUEPASS.png",NBA League Pass 15  HD
 http://smart.cdn23.click:80/leonardo4249/a980069/254093
 #EXTINF:-1 group-title="Canais |  Religiosos" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CNT.png",Rede CNT FHD
@@ -2892,8 +2619,6 @@ http://smart.cdn23.click:80/leonardo4249/a980069/255477
 http://smart.cdn23.click:80/leonardo4249/a980069/255479
 #EXTINF:-1 group-title="Canais | Band" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BAND.png",Band RS UHD
 http://smart.cdn23.click:80/leonardo4249/a980069/368451
-#EXTINF:-1 group-title="Canais | Band" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BAND.png",Band RS HD
-http://smart.cdn23.click:80/leonardo4249/a980069/255480
 #EXTINF:-1 group-title="Canais | Band" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BAND.png",Band RS HD²
 http://smart.cdn23.click:80/leonardo4249/a980069/368452
 #EXTINF:-1 group-title="Canais | Band" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BAND.png",Band RS SD
@@ -2910,8 +2635,6 @@ http://smart.cdn23.click:80/leonardo4249/a980069/255484
 http://smart.cdn23.click:80/leonardo4249/a980069/255485
 #EXTINF:-1 group-title="Canais | Band" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BAND.png",Band CE UHD
 http://smart.cdn23.click:80/leonardo4249/a980069/255492
-#EXTINF:-1 group-title="Canais | Band" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BAND.png",Band CE FHD
-http://smart.cdn23.click:80/leonardo4249/a980069/255495
 #EXTINF:-1 group-title="Canais | Band" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BAND.png",Band CE HD
 http://smart.cdn23.click:80/leonardo4249/a980069/255494
 #EXTINF:-1 group-title="Canais | Band" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BAND.png",Band CE HD²
@@ -2922,34 +2645,20 @@ http://smart.cdn23.click:80/leonardo4249/a980069/255498
 http://smart.cdn23.click:80/leonardo4249/a980069/255500
 #EXTINF:-1 group-title="Canais | Band" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BAND.png",Band Campinas SD
 http://smart.cdn23.click:80/leonardo4249/a980069/255501
-#EXTINF:-1 group-title="Canais | Band" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BAND.png",Band AMAZONAS FHD
-http://smart.cdn23.click:80/leonardo4249/a980069/255504
 #EXTINF:-1 group-title="Canais | Band" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BAND.png",Band Uberlandia FHD
 http://smart.cdn23.click:80/leonardo4249/a980069/255505
 #EXTINF:-1 group-title="Canais | Band" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BAND.png",Band Uberlandia HD
 http://smart.cdn23.click:80/leonardo4249/a980069/255506
-#EXTINF:-1 group-title="Canais | Band" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BAND.png",Band Uberlandia SD
-http://smart.cdn23.click:80/leonardo4249/a980069/255507
-#EXTINF:-1 group-title="Canais | Band" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BAND.png",Band TV TRIBUNA RECIFE FHD
-http://smart.cdn23.click:80/leonardo4249/a980069/255508
-#EXTINF:-1 group-title="Canais | Band" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BAND.png",Band NATAL HD
-http://smart.cdn23.click:80/leonardo4249/a980069/255509
 #EXTINF:-1 group-title="Canais | Band" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BAND.png",Band CASCAVEL TV TAROBA FHD
 http://smart.cdn23.click:80/leonardo4249/a980069/255510
 #EXTINF:-1 group-title="Canais |  Abertos" tvg-logo="http://app.tvdigital.link:2095/logoscanais/REDEF.png",Rede Familia FHD
 http://smart.cdn23.click:80/leonardo4249/a980069/264927
-#EXTINF:-1 group-title="Canais | Pay-per-view" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PRIMEVIDEO.png",Prime Video 1 Z
-http://smart.cdn23.click:80/leonardo4249/a980069/264952
 #EXTINF:-1 group-title="Canais | Pay-per-view" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PRIMEVIDEO.png",Prime Video1 L
 http://smart.cdn23.click:80/leonardo4249/a980069/264953
 #EXTINF:-1 group-title="Canais | Pay-per-view" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PRIMEVIDEO.png",Prime Video 2 Z
 http://smart.cdn23.click:80/leonardo4249/a980069/264956
 #EXTINF:-1 group-title="Canais | Pay-per-view" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PRIMEVIDEO.png",Prime Video 2 T
 http://smart.cdn23.click:80/leonardo4249/a980069/264957
-#EXTINF:-1 group-title="Canais | Pay-per-view" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PRIMEVIDEO.png",Prime Video 2 L
-http://smart.cdn23.click:80/leonardo4249/a980069/264958
-#EXTINF:-1 group-title="Canais | Pay-per-view" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PRIMEVIDEO.png",Prime Video 3 Z
-http://smart.cdn23.click:80/leonardo4249/a980069/264959
 #EXTINF:-1 group-title="Canais | Pay-per-view" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PRIMEVIDEO.png",Prime Video 3 L
 http://smart.cdn23.click:80/leonardo4249/a980069/264960
 #EXTINF:-1 group-title="Canais | Pay-per-view" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PRIMEVIDEO.png",Prime Video 3 T
@@ -2998,8 +2707,6 @@ http://smart.cdn23.click:80/leonardo4249/a980069/327834
 http://smart.cdn23.click:80/leonardo4249/a980069/327835
 #EXTINF:-1 group-title="Canais | Pay-per-view" tvg-logo="http://app.tvdigital.link:2095/logoscanais/MLS.png",MLS League Pass 6
 http://smart.cdn23.click:80/leonardo4249/a980069/327836
-#EXTINF:-1 group-title="Canais | Pay-per-view" tvg-logo="http://app.tvdigital.link:2095/logoscanais/MLS.png",MLS League Pass 7
-http://smart.cdn23.click:80/leonardo4249/a980069/327837
 #EXTINF:-1 group-title="Canais |  Religiosos" tvg-logo="http://app.tvdigital.link:2095/logoscanais/IMPD.png",TV IMPD FHD
 http://smart.cdn23.click:80/leonardo4249/a980069/350133
 #EXTINF:-1 group-title="Canais |  Religiosos" tvg-logo="http://app.tvdigital.link:2095/logoscanais/IMPD.png",TV IMPD UHD
@@ -3054,8 +2761,6 @@ http://smart.cdn23.click:80/leonardo4249/a980069/148
 http://smart.cdn23.click:80/leonardo4249/a980069/364668
 #EXTINF:-1 group-title="Canais |  Abertos" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TVCULTURA.png",TV Cultura SD
 http://smart.cdn23.click:80/leonardo4249/a980069/147
-#EXTINF:-1 group-title="Canais |  Abertos" tvg-logo="http://app.tvdigital.link:2095/logoscanais/FUTURA.png",Futura FHD
-http://smart.cdn23.click:80/leonardo4249/a980069/159
 #EXTINF:-1 group-title="Canais |  Abertos" tvg-logo="http://app.tvdigital.link:2095/logoscanais/FUTURA.png",Futura UHD
 http://smart.cdn23.click:80/leonardo4249/a980069/364665
 #EXTINF:-1 group-title="Canais |  Abertos" tvg-logo="http://app.tvdigital.link:2095/logoscanais/FUTURA.png",Futura H265
@@ -3066,16 +2771,6 @@ http://smart.cdn23.click:80/leonardo4249/a980069/158
 http://smart.cdn23.click:80/leonardo4249/a980069/364667
 #EXTINF:-1 group-title="Canais |  Abertos" tvg-logo="http://app.tvdigital.link:2095/logoscanais/FUTURA.png",Futura SD
 http://smart.cdn23.click:80/leonardo4249/a980069/157
-#EXTINF:-1 group-title="Canais |  Abertos" tvg-logo="https://redeminas.tv/wp-content/uploads/2020/09/Destaque-Home_RedeMinas2.png",Rede Minas FHD
-http://smart.cdn23.click:80/leonardo4249/a980069/274516
-#EXTINF:-1 group-title="Canais |  Abertos" tvg-logo="https://redeminas.tv/wp-content/uploads/2020/09/Destaque-Home_RedeMinas2.png",Rede Minas UHD
-http://smart.cdn23.click:80/leonardo4249/a980069/364670
-#EXTINF:-1 group-title="Canais |  Abertos" tvg-logo="https://redeminas.tv/wp-content/uploads/2020/09/Destaque-Home_RedeMinas2.png",Rede Minas HD
-http://smart.cdn23.click:80/leonardo4249/a980069/274517
-#EXTINF:-1 group-title="Canais |  Abertos" tvg-logo="https://redeminas.tv/wp-content/uploads/2020/09/Destaque-Home_RedeMinas2.png",Rede Minas HD²
-http://smart.cdn23.click:80/leonardo4249/a980069/364674
-#EXTINF:-1 group-title="Canais |  Abertos" tvg-logo="https://redeminas.tv/wp-content/uploads/2020/09/Destaque-Home_RedeMinas2.png",Rede Minas SD
-http://smart.cdn23.click:80/leonardo4249/a980069/274518
 #EXTINF:-1 group-title="Canais |  Abertos" tvg-logo="http://app.tvdigital.link:2095/logoscanais/REDETV!.png",Rede TV FHD
 http://smart.cdn23.click:80/leonardo4249/a980069/80170
 #EXTINF:-1 group-title="Canais |  Abertos" tvg-logo="http://app.tvdigital.link:2095/logoscanais/REDETV!.png",Rede TV UHD
@@ -3218,10 +2913,6 @@ http://smart.cdn23.click:80/leonardo4249/a980069/385525
 http://smart.cdn23.click:80/leonardo4249/a980069/385526
 #EXTINF:-1 group-title="Canais | Estrela Day" tvg-logo="http://app.tvdigital.link:2095/logoscanais/EstrelaDaCasa.png",ESTRELA DAY BANHEIRO ELSEVE
 http://smart.cdn23.click:80/leonardo4249/a980069/385527
-#EXTINF:-1 group-title="Canais | Estrela Day" tvg-logo="http://app.tvdigital.link:2095/logoscanais/EstrelaDaCasa.png",ESTRELA DAY QUARTO LARANJA
-http://smart.cdn23.click:80/leonardo4249/a980069/385528
-#EXTINF:-1 group-title="Canais | Estrela Day" tvg-logo="http://app.tvdigital.link:2095/logoscanais/EstrelaDaCasa.png",ESTRELA DAY QUARTO AZUL
-http://smart.cdn23.click:80/leonardo4249/a980069/385529
 #EXTINF:-1 group-title="Canais | Pay-per-view",FloGrappling HD
 http://smart.cdn23.click:80/leonardo4249/a980069/385605
 #EXTINF:-1 group-title="Canais | Pay-per-view",FloGrappling SD
