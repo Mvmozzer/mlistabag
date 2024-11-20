@@ -123,211 +123,182 @@ http://168.205.87.198:8555/live/1210/123456/169.m3u8
 #EXTINF:-1 group-title="TV AO VIVO",TRACE BRAZUCA
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8
 
-#EXTINF:-1 group-title="GLOBOPLAY" tvg-logo="http://main.primehugehost.xyz:2095/images/ecd914d8bd768bf62dadfe2d1c1d5a8e.jpg",Prison Break: Em Busca da Verdade S01 E01
-http://178.162.193.239:2052/series/TouroVod-dbGVBCHHXZ/iHN6GKSqCD/12290.mp4
-#EXTINF:-1 group-title="GLOBOPLAY" tvg-logo="http://main.primehugehost.xyz:2095/images/a3a255ca31e75839f8f2de9e90c90bbd.jpg",Prison Break: Em Busca da Verdade S01 E02
-http://178.162.193.239:2052/series/TouroVod-dbGVBCHHXZ/iHN6GKSqCD/12291.mp4
-#EXTINF:-1 group-title="GLOBOPLAY" tvg-logo="http://main.primehugehost.xyz:2095/images/25b796b6f69ab8829e97ce55a83e4a5e.jpg",Prison Break: Em Busca da Verdade S01 E03
-http://178.162.193.239:2052/series/TouroVod-dbGVBCHHXZ/iHN6GKSqCD/12292.mp4
-#EXTINF:-1 group-title="GLOBOPLAY" tvg-logo="http://main.primehugehost.xyz:2095/images/412bd1443835c39b16bc52b8be256728.jpg",Prison Break: Em Busca da Verdade S01 E04
-http://178.162.193.239:2052/series/TouroVod-dbGVBCHHXZ/iHN6GKSqCD/12293.mp4
-#EXTINF:-1 group-title="GLOBOPLAY" tvg-logo="http://main.primehugehost.xyz:2095/images/dc986cfaa6756571d25ebb62dfa8b8d7.jpg",Prison Break: Em Busca da Verdade S01 E05
-http://178.162.193.239:2052/series/TouroVod-dbGVBCHHXZ/iHN6GKSqCD/12294.mp4
-#EXTINF:-1 group-title="GLOBOPLAY" tvg-logo="http://main.primehugehost.xyz:2095/images/99fd20c4e58516f5dbc8cf5aaa2e6573.jpg",Prison Break: Em Busca da Verdade S01 E06
-http://178.162.193.239:2052/series/TouroVod-dbGVBCHHXZ/iHN6GKSqCD/12295.mp4
-#EXTINF:-1 group-title="GLOBOPLAY" tvg-logo="http://main.primehugehost.xyz:2095/images/86f3b29b0b9e12080399318a742c40d4.jpg",Prison Break: Em Busca da Verdade S01 E07
-http://178.162.193.239:2052/series/TouroVod-dbGVBCHHXZ/iHN6GKSqCD/12296.mp4
-#EXTINF:-1 group-title="GLOBOPLAY" tvg-logo="http://main.primehugehost.xyz:2095/images/274960045ebacede2cb396f2b5e44394.jpg",Prison Break: Em Busca da Verdade S01 E08
-http://178.162.193.239:2052/series/TouroVod-dbGVBCHHXZ/iHN6GKSqCD/12297.mp4
-#EXTINF:-1 group-title="GLOBOPLAY" tvg-logo="http://main.primehugehost.xyz:2095/images/65ffab7abb48d1cae29731fd22d0ef72.jpg",Prison Break: Em Busca da Verdade S01 E09
-http://178.162.193.239:2052/series/TouroVod-dbGVBCHHXZ/iHN6GKSqCD/12298.mp4
-#EXTINF:-1 group-title="GLOBOPLAY" tvg-logo="http://main.primehugehost.xyz:2095/images/99b1ca021497191ea8ef82d107e3c599.jpg",Prison Break: Em Busca da Verdade S01 E10
-http://178.162.193.239:2052/series/TouroVod-dbGVBCHHXZ/iHN6GKSqCD/12299.mp4
-#EXTINF:-1 group-title="GLOBOPLAY" tvg-logo="http://main.primehugehost.xyz:2095/images/a98de7d4ef1e5ec0df27e3b1685fce48.jpg",Prison Break: Em Busca da Verdade S01 E11
-http://178.162.193.239:2052/series/TouroVod-dbGVBCHHXZ/iHN6GKSqCD/12300.mp4
-#EXTINF:-1 group-title="GLOBOPLAY" tvg-logo="http://main.primehugehost.xyz:2095/images/4b554f62f5b200644460bdeb08f07236.jpg",Prison Break: Em Busca da Verdade S01 E12
-http://178.162.193.239:2052/series/TouroVod-dbGVBCHHXZ/iHN6GKSqCD/12301.mp4
-#EXTINF:-1 group-title="GLOBOPLAY" tvg-logo="http://main.primehugehost.xyz:2095/images/1ee8f954878c460d93b2a8444ae0350f.jpg",Prison Break: Em Busca da Verdade S01 E13
-http://178.162.193.239:2052/series/TouroVod-dbGVBCHHXZ/iHN6GKSqCD/12302.mp4
-#EXTINF:-1 group-title="GLOBOPLAY" tvg-logo="http://main.primehugehost.xyz:2095/images/724230179b5197dc4c4446b0985615c8.jpg",Prison Break: Em Busca da Verdade S01 E14
-http://178.162.193.239:2052/series/TouroVod-dbGVBCHHXZ/iHN6GKSqCD/12303.mp4
-#EXTINF:-1 group-title="GLOBOPLAY" tvg-logo="http://main.primehugehost.xyz:2095/images/1c267763a8066e4231e6a26f82b0a772.jpg",Prison Break: Em Busca da Verdade S01 E15
-http://178.162.193.239:2052/series/TouroVod-dbGVBCHHXZ/iHN6GKSqCD/12304.mp4
-#EXTINF:-1 group-title="GLOBOPLAY" tvg-logo="http://main.primehugehost.xyz:2095/images/2e55fb21988ddcfe9f61cd6b50e8ad8c.jpg",Prison Break: Em Busca da Verdade S01 E16
-http://178.162.193.239:2052/series/TouroVod-dbGVBCHHXZ/iHN6GKSqCD/12305.mp4
-#EXTINF:-1 group-title="GLOBOPLAY" tvg-logo="http://main.primehugehost.xyz:2095/images/373c196911ce406e17498c899caf04d4.jpg",Prison Break: Em Busca da Verdade S01 E17
-http://178.162.193.239:2052/series/TouroVod-dbGVBCHHXZ/iHN6GKSqCD/12306.mp4
-#EXTINF:-1 group-title="GLOBOPLAY" tvg-logo="http://main.primehugehost.xyz:2095/images/4df69c1c00b8edeab16c17ce86b52ecd.jpg",Prison Break: Em Busca da Verdade S01 E18
-http://178.162.193.239:2052/series/TouroVod-dbGVBCHHXZ/iHN6GKSqCD/12307.mp4
-#EXTINF:-1 group-title="GLOBOPLAY" tvg-logo="http://main.primehugehost.xyz:2095/images/3cf5e4d1b3c3bbde087fed84e018ba55.jpg",Prison Break: Em Busca da Verdade S01 E19
-http://178.162.193.239:2052/series/TouroVod-dbGVBCHHXZ/iHN6GKSqCD/12308.mp4
-#EXTINF:-1 group-title="GLOBOPLAY" tvg-logo="http://main.primehugehost.xyz:2095/images/3560dd278f0c4c23daf189d420c447fe.jpg",Prison Break: Em Busca da Verdade S01 E20
-http://178.162.193.239:2052/series/TouroVod-dbGVBCHHXZ/iHN6GKSqCD/12309.mp4
-#EXTINF:-1 group-title="GLOBOPLAY" tvg-logo="http://main.primehugehost.xyz:2095/images/e2ba542df618d571f7b31822f390872a.jpg",Prison Break: Em Busca da Verdade S01 E21
-http://178.162.193.239:2052/series/TouroVod-dbGVBCHHXZ/iHN6GKSqCD/12310.mp4
-#EXTINF:-1 group-title="GLOBOPLAY" tvg-logo="http://main.primehugehost.xyz:2095/images/12dc3fea4b3a022e3e946a1d8a286584.jpg",Prison Break: Em Busca da Verdade S01 E22
-http://178.162.193.239:2052/series/TouroVod-dbGVBCHHXZ/iHN6GKSqCD/12311.mp4
-#EXTINF:-1 group-title="GLOBOPLAY" tvg-logo="http://main.primehugehost.xyz:2095/images/1f05958981839709e3f71aa06019347c.jpg",Prison Break: Em Busca da Verdade S02 E01
-http://178.162.193.239:2052/series/TouroVod-dbGVBCHHXZ/iHN6GKSqCD/12312.mp4
-#EXTINF:-1 group-title="GLOBOPLAY" tvg-logo="http://main.primehugehost.xyz:2095/images/5824ceacf48b625638b5fa9ced1aee77.jpg",Prison Break: Em Busca da Verdade S02 E02
-http://178.162.193.239:2052/series/TouroVod-dbGVBCHHXZ/iHN6GKSqCD/12313.mp4
-#EXTINF:-1 group-title="GLOBOPLAY" tvg-logo="http://main.primehugehost.xyz:2095/images/b2899a14982b420442d29675fff48574.jpg",Prison Break: Em Busca da Verdade S02 E03
-http://178.162.193.239:2052/series/TouroVod-dbGVBCHHXZ/iHN6GKSqCD/12314.mp4
-#EXTINF:-1 group-title="GLOBOPLAY" tvg-logo="http://main.primehugehost.xyz:2095/images/3184aa2300ca18dcb6bf361341c8375f.jpg",Prison Break: Em Busca da Verdade S02 E04
-http://178.162.193.239:2052/series/TouroVod-dbGVBCHHXZ/iHN6GKSqCD/12315.mp4
-#EXTINF:-1 group-title="GLOBOPLAY" tvg-logo="http://main.primehugehost.xyz:2095/images/1d11f0e1f9fc0fbb71439783f5ee55f5.jpg",Prison Break: Em Busca da Verdade S02 E05
-http://178.162.193.239:2052/series/TouroVod-dbGVBCHHXZ/iHN6GKSqCD/12316.mp4
-#EXTINF:-1 group-title="GLOBOPLAY" tvg-logo="http://main.primehugehost.xyz:2095/images/7ff1c255645f8e1c737f1352976c525a.jpg",Prison Break: Em Busca da Verdade S02 E06
-http://178.162.193.239:2052/series/TouroVod-dbGVBCHHXZ/iHN6GKSqCD/12317.mp4
-#EXTINF:-1 group-title="GLOBOPLAY" tvg-logo="http://main.primehugehost.xyz:2095/images/7b98d9a54e834e449fcecee87c7827af.jpg",Prison Break: Em Busca da Verdade S02 E07
-http://178.162.193.239:2052/series/TouroVod-dbGVBCHHXZ/iHN6GKSqCD/12318.mp4
-#EXTINF:-1 group-title="GLOBOPLAY" tvg-logo="http://main.primehugehost.xyz:2095/images/4199e9c56dec1bfd9401c85222b25a1c.jpg",Prison Break: Em Busca da Verdade S02 E08
-http://178.162.193.239:2052/series/TouroVod-dbGVBCHHXZ/iHN6GKSqCD/12319.mp4
-#EXTINF:-1 group-title="GLOBOPLAY" tvg-logo="http://main.primehugehost.xyz:2095/images/18ce08433581265ead88102380eaf330.jpg",Prison Break: Em Busca da Verdade S02 E09
-http://178.162.193.239:2052/series/TouroVod-dbGVBCHHXZ/iHN6GKSqCD/12320.mp4
-#EXTINF:-1 group-title="GLOBOPLAY" tvg-logo="http://main.primehugehost.xyz:2095/images/afb2177fd95dd96afb764a97752f06a4.jpg",Prison Break: Em Busca da Verdade S02 E10
-http://178.162.193.239:2052/series/TouroVod-dbGVBCHHXZ/iHN6GKSqCD/12321.mp4
-#EXTINF:-1 group-title="GLOBOPLAY" tvg-logo="http://main.primehugehost.xyz:2095/images/808f12890786136fa7657d5663ceb03c.jpg",Prison Break: Em Busca da Verdade S02 E11
-http://178.162.193.239:2052/series/TouroVod-dbGVBCHHXZ/iHN6GKSqCD/12322.mp4
-#EXTINF:-1 group-title="GLOBOPLAY" tvg-logo="http://main.primehugehost.xyz:2095/images/fd96915298cd03525ab29909365461a3.jpg",Prison Break: Em Busca da Verdade S02 E12
-http://178.162.193.239:2052/series/TouroVod-dbGVBCHHXZ/iHN6GKSqCD/12323.mp4
-#EXTINF:-1 group-title="GLOBOPLAY" tvg-logo="http://main.primehugehost.xyz:2095/images/3a81801352e2f23e7b9726f9f5cd1d7c.jpg",Prison Break: Em Busca da Verdade S02 E13
-http://178.162.193.239:2052/series/TouroVod-dbGVBCHHXZ/iHN6GKSqCD/12324.mp4
-#EXTINF:-1 group-title="GLOBOPLAY" tvg-logo="http://main.primehugehost.xyz:2095/images/2e3092bf1a4b2549d7ee3bbde0f177ae.jpg",Prison Break: Em Busca da Verdade S02 E14
-http://178.162.193.239:2052/series/TouroVod-dbGVBCHHXZ/iHN6GKSqCD/12325.mp4
-#EXTINF:-1 group-title="GLOBOPLAY" tvg-logo="http://main.primehugehost.xyz:2095/images/651faa8dac1b42031589f373dec10135.jpg",Prison Break: Em Busca da Verdade S02 E15
-http://178.162.193.239:2052/series/TouroVod-dbGVBCHHXZ/iHN6GKSqCD/12326.mp4
-#EXTINF:-1 group-title="GLOBOPLAY" tvg-logo="http://main.primehugehost.xyz:2095/images/e9e502db1b792169045c60f59347ba32.jpg",Prison Break: Em Busca da Verdade S02 E16
-http://178.162.193.239:2052/series/TouroVod-dbGVBCHHXZ/iHN6GKSqCD/12327.mp4
-#EXTINF:-1 group-title="GLOBOPLAY" tvg-logo="http://main.primehugehost.xyz:2095/images/92f3fda3e83b6607f1815a560090795e.jpg",Prison Break: Em Busca da Verdade S02 E17
-http://178.162.193.239:2052/series/TouroVod-dbGVBCHHXZ/iHN6GKSqCD/12328.mp4
-#EXTINF:-1 group-title="GLOBOPLAY" tvg-logo="http://main.primehugehost.xyz:2095/images/cf109c3ce29c7f8de19c74f95f780d66.jpg",Prison Break: Em Busca da Verdade S02 E18
-http://178.162.193.239:2052/series/TouroVod-dbGVBCHHXZ/iHN6GKSqCD/12329.mp4
-#EXTINF:-1 group-title="GLOBOPLAY" tvg-logo="http://main.primehugehost.xyz:2095/images/e15973d4316ff72bd5970add9d865cbe.jpg",Prison Break: Em Busca da Verdade S02 E19
-http://178.162.193.239:2052/series/TouroVod-dbGVBCHHXZ/iHN6GKSqCD/12330.mp4
-#EXTINF:-1 group-title="GLOBOPLAY" tvg-logo="http://main.primehugehost.xyz:2095/images/73153531e4e1f2286dabdbe8237e5c76.jpg",Prison Break: Em Busca da Verdade S02 E20
-http://178.162.193.239:2052/series/TouroVod-dbGVBCHHXZ/iHN6GKSqCD/12331.mp4
-#EXTINF:-1 group-title="GLOBOPLAY" tvg-logo="http://main.primehugehost.xyz:2095/images/47890d05b1931b8ae19e49942b410c05.jpg",Prison Break: Em Busca da Verdade S02 E21
-http://178.162.193.239:2052/series/TouroVod-dbGVBCHHXZ/iHN6GKSqCD/12332.mp4
-#EXTINF:-1 group-title="GLOBOPLAY" tvg-logo="http://main.primehugehost.xyz:2095/images/d553c6de780bd8d98d58021bb159c9d1.jpg",Prison Break: Em Busca da Verdade S02 E22
-http://178.162.193.239:2052/series/TouroVod-dbGVBCHHXZ/iHN6GKSqCD/12333.mp4
-#EXTINF:-1 group-title="GLOBOPLAY" tvg-logo="http://main.primehugehost.xyz:2095/images/461d9d72e7b9798245132a848a2cd115.jpg",Prison Break: Em Busca da Verdade S03 E01
-http://178.162.193.239:2052/series/TouroVod-dbGVBCHHXZ/iHN6GKSqCD/12334.mp4
-#EXTINF:-1 group-title="GLOBOPLAY" tvg-logo="http://main.primehugehost.xyz:2095/images/107a9b27a405009851452a8529cf5556.jpg",Prison Break: Em Busca da Verdade S03 E02
-http://178.162.193.239:2052/series/TouroVod-dbGVBCHHXZ/iHN6GKSqCD/12335.mp4
-#EXTINF:-1 group-title="GLOBOPLAY" tvg-logo="http://main.primehugehost.xyz:2095/images/3628f9da7e17c5e35168ad517fe55366.jpg",Prison Break: Em Busca da Verdade S03 E03
-http://178.162.193.239:2052/series/TouroVod-dbGVBCHHXZ/iHN6GKSqCD/12336.mp4
-#EXTINF:-1 group-title="GLOBOPLAY" tvg-logo="http://main.primehugehost.xyz:2095/images/a278560756a8f2b704c772ca186243c1.jpg",Prison Break: Em Busca da Verdade S03 E04
-http://178.162.193.239:2052/series/TouroVod-dbGVBCHHXZ/iHN6GKSqCD/12337.mp4
-#EXTINF:-1 group-title="GLOBOPLAY" tvg-logo="http://main.primehugehost.xyz:2095/images/34f4d1ecee6d0046fbe4e82446158691.jpg",Prison Break: Em Busca da Verdade S03 E05
-http://178.162.193.239:2052/series/TouroVod-dbGVBCHHXZ/iHN6GKSqCD/12338.mp4
-#EXTINF:-1 group-title="GLOBOPLAY" tvg-logo="http://main.primehugehost.xyz:2095/images/0b186274fda6a45736207ca501869db7.jpg",Prison Break: Em Busca da Verdade S03 E06
-http://178.162.193.239:2052/series/TouroVod-dbGVBCHHXZ/iHN6GKSqCD/12339.mp4
-#EXTINF:-1 group-title="GLOBOPLAY" tvg-logo="http://main.primehugehost.xyz:2095/images/856648873e8de256f31e7369e29c8156.jpg",Prison Break: Em Busca da Verdade S03 E07
-http://178.162.193.239:2052/series/TouroVod-dbGVBCHHXZ/iHN6GKSqCD/12340.mp4
-#EXTINF:-1 group-title="GLOBOPLAY" tvg-logo="http://main.primehugehost.xyz:2095/images/400ba1fe81004916efe8bd82ee0b059d.jpg",Prison Break: Em Busca da Verdade S03 E08
-http://178.162.193.239:2052/series/TouroVod-dbGVBCHHXZ/iHN6GKSqCD/12341.mp4
-#EXTINF:-1 group-title="GLOBOPLAY" tvg-logo="http://main.primehugehost.xyz:2095/images/f1cddae7cfa0944ab0d42ea10de689e2.jpg",Prison Break: Em Busca da Verdade S03 E09
-http://178.162.193.239:2052/series/TouroVod-dbGVBCHHXZ/iHN6GKSqCD/12342.mp4
-#EXTINF:-1 group-title="GLOBOPLAY" tvg-logo="http://main.primehugehost.xyz:2095/images/cc6ca78ff62d5037e4905e345d5c1bf5.jpg",Prison Break: Em Busca da Verdade S03 E10
-http://178.162.193.239:2052/series/TouroVod-dbGVBCHHXZ/iHN6GKSqCD/12343.mp4
-#EXTINF:-1 group-title="GLOBOPLAY" tvg-logo="http://main.primehugehost.xyz:2095/images/ea66ccdff8b2d43f54d1104a444e7a41.jpg",Prison Break: Em Busca da Verdade S03 E11
-http://178.162.193.239:2052/series/TouroVod-dbGVBCHHXZ/iHN6GKSqCD/12344.mp4
-#EXTINF:-1 group-title="GLOBOPLAY" tvg-logo="http://main.primehugehost.xyz:2095/images/206df2942e5c14a42be361a294a9cbb9.jpg",Prison Break: Em Busca da Verdade S03 E12
-http://178.162.193.239:2052/series/TouroVod-dbGVBCHHXZ/iHN6GKSqCD/12345.mp4
-#EXTINF:-1 group-title="GLOBOPLAY" tvg-logo="http://main.primehugehost.xyz:2095/images/4dcb6a0d9a87ef470bb15ee083867adf.jpg",Prison Break: Em Busca da Verdade S03 E13
-http://178.162.193.239:2052/series/TouroVod-dbGVBCHHXZ/iHN6GKSqCD/12346.mp4
-#EXTINF:-1 group-title="GLOBOPLAY" tvg-logo="http://main.primehugehost.xyz:2095/images/c8859944888b8d3bf8ea4fae33ec4c57.jpg",Prison Break: Em Busca da Verdade S04 E01
-http://178.162.193.239:2052/series/TouroVod-dbGVBCHHXZ/iHN6GKSqCD/12347.mp4
-#EXTINF:-1 group-title="GLOBOPLAY" tvg-logo="http://main.primehugehost.xyz:2095/images/2b9a2422c9a0626f85407f430b94ffa9.jpg",Prison Break: Em Busca da Verdade S04 E02
-http://178.162.193.239:2052/series/TouroVod-dbGVBCHHXZ/iHN6GKSqCD/12348.mp4
-#EXTINF:-1 group-title="GLOBOPLAY" tvg-logo="http://main.primehugehost.xyz:2095/images/05e8853f6d5accf873d2885f45b70776.jpg",Prison Break: Em Busca da Verdade S04 E03
-http://178.162.193.239:2052/series/TouroVod-dbGVBCHHXZ/iHN6GKSqCD/12349.mp4
-#EXTINF:-1 group-title="GLOBOPLAY" tvg-logo="http://main.primehugehost.xyz:2095/images/b6c860f78d848983d78ee24779299464.jpg",Prison Break: Em Busca da Verdade S04 E04
-http://178.162.193.239:2052/series/TouroVod-dbGVBCHHXZ/iHN6GKSqCD/12350.mp4
-#EXTINF:-1 group-title="GLOBOPLAY" tvg-logo="http://main.primehugehost.xyz:2095/images/b2af2f403485e9043d631841413a383b.jpg",Prison Break: Em Busca da Verdade S04 E05
-http://178.162.193.239:2052/series/TouroVod-dbGVBCHHXZ/iHN6GKSqCD/12351.mp4
-#EXTINF:-1 group-title="GLOBOPLAY" tvg-logo="http://main.primehugehost.xyz:2095/images/ed53559f833b8c5debd85b1e943aad45.jpg",Prison Break: Em Busca da Verdade S04 E06
-http://178.162.193.239:2052/series/TouroVod-dbGVBCHHXZ/iHN6GKSqCD/12352.mp4
-#EXTINF:-1 group-title="GLOBOPLAY" tvg-logo="http://main.primehugehost.xyz:2095/images/3e4bb80e445af10004473229193cef9e.jpg",Prison Break: Em Busca da Verdade S04 E07
-http://178.162.193.239:2052/series/TouroVod-dbGVBCHHXZ/iHN6GKSqCD/12353.mp4
-#EXTINF:-1 group-title="GLOBOPLAY" tvg-logo="http://main.primehugehost.xyz:2095/images/b1e3140902df2845926931d154420a96.jpg",Prison Break: Em Busca da Verdade S04 E08
-http://178.162.193.239:2052/series/TouroVod-dbGVBCHHXZ/iHN6GKSqCD/12354.mp4
-#EXTINF:-1 group-title="GLOBOPLAY" tvg-logo="http://main.primehugehost.xyz:2095/images/b5d5ee5655c6a0f654d3e458fd4a1fac.jpg",Prison Break: Em Busca da Verdade S04 E09
-http://178.162.193.239:2052/series/TouroVod-dbGVBCHHXZ/iHN6GKSqCD/12355.mp4
-#EXTINF:-1 group-title="GLOBOPLAY" tvg-logo="http://main.primehugehost.xyz:2095/images/d0371df355327491e45b84917ced8ce9.jpg",Prison Break: Em Busca da Verdade S04 E10
-http://178.162.193.239:2052/series/TouroVod-dbGVBCHHXZ/iHN6GKSqCD/12356.mp4
-#EXTINF:-1 group-title="GLOBOPLAY" tvg-logo="http://main.primehugehost.xyz:2095/images/f4a66bdd1e113a81db07bbed8f944775.jpg",Prison Break: Em Busca da Verdade S04 E11
-http://178.162.193.239:2052/series/TouroVod-dbGVBCHHXZ/iHN6GKSqCD/12357.mp4
-#EXTINF:-1 group-title="GLOBOPLAY" tvg-logo="http://main.primehugehost.xyz:2095/images/c23d45a91c6b8d805c54b2bc2fa2db67.jpg",Prison Break: Em Busca da Verdade S04 E12
-http://178.162.193.239:2052/series/TouroVod-dbGVBCHHXZ/iHN6GKSqCD/12358.mp4
-#EXTINF:-1 group-title="GLOBOPLAY" tvg-logo="http://main.primehugehost.xyz:2095/images/b88bd38fc5673f444d45327a19fa3418.jpg",Prison Break: Em Busca da Verdade S04 E13
-http://178.162.193.239:2052/series/TouroVod-dbGVBCHHXZ/iHN6GKSqCD/12359.mp4
-#EXTINF:-1 group-title="GLOBOPLAY" tvg-logo="http://main.primehugehost.xyz:2095/images/b7ea57570c02c3508e1b7b1bd9ac6d45.jpg",Prison Break: Em Busca da Verdade S04 E14
-http://178.162.193.239:2052/series/TouroVod-dbGVBCHHXZ/iHN6GKSqCD/12360.mp4
-#EXTINF:-1 group-title="GLOBOPLAY" tvg-logo="http://main.primehugehost.xyz:2095/images/a1e070550994184a04389d82d3797549.jpg",Prison Break: Em Busca da Verdade S04 E15
-http://178.162.193.239:2052/series/TouroVod-dbGVBCHHXZ/iHN6GKSqCD/12361.mp4
-#EXTINF:-1 group-title="GLOBOPLAY" tvg-logo="http://main.primehugehost.xyz:2095/images/6fcb1382acfce51f59a0057c6560f68b.jpg",Prison Break: Em Busca da Verdade S04 E16
-http://178.162.193.239:2052/series/TouroVod-dbGVBCHHXZ/iHN6GKSqCD/12362.mp4
-#EXTINF:-1 group-title="GLOBOPLAY" tvg-logo="http://main.primehugehost.xyz:2095/images/f23d268523c92f817b6f0947ea0bb0f5.jpg",Prison Break: Em Busca da Verdade S04 E17
-http://178.162.193.239:2052/series/TouroVod-dbGVBCHHXZ/iHN6GKSqCD/12363.mp4
-#EXTINF:-1 group-title="GLOBOPLAY" tvg-logo="http://main.primehugehost.xyz:2095/images/189e677411d25d515808cde4cf345412.jpg",Prison Break: Em Busca da Verdade S04 E18
-http://178.162.193.239:2052/series/TouroVod-dbGVBCHHXZ/iHN6GKSqCD/12364.mp4
-#EXTINF:-1 group-title="GLOBOPLAY" tvg-logo="http://main.primehugehost.xyz:2095/images/e96150d9f75a64faf4f4c0bcd66aa187.jpg",Prison Break: Em Busca da Verdade S04 E19
-http://178.162.193.239:2052/series/TouroVod-dbGVBCHHXZ/iHN6GKSqCD/12365.mp4
-#EXTINF:-1 group-title="GLOBOPLAY" tvg-logo="http://main.primehugehost.xyz:2095/images/23002a46435dbc9f619bfc5efa1e59e3.jpg",Prison Break: Em Busca da Verdade S04 E20
-http://178.162.193.239:2052/series/TouroVod-dbGVBCHHXZ/iHN6GKSqCD/12366.mp4
-#EXTINF:-1 group-title="GLOBOPLAY" tvg-logo="http://main.primehugehost.xyz:2095/images/5e051e26d4c88476348a4ef443262208.jpg",Prison Break: Em Busca da Verdade S04 E21
-http://178.162.193.239:2052/series/TouroVod-dbGVBCHHXZ/iHN6GKSqCD/12367.mp4
-#EXTINF:-1 group-title="GLOBOPLAY" tvg-logo="http://main.primehugehost.xyz:2095/images/ad402cdab5a2f98f58fb3349f30b4cdc.jpg",Prison Break: Em Busca da Verdade S04 E22
-http://178.162.193.239:2052/series/TouroVod-dbGVBCHHXZ/iHN6GKSqCD/12368.mp4
-#EXTINF:-1 group-title="GLOBOPLAY" tvg-logo="http://hosting-primex.xyz:2095/images/70cb8603750d27f5e1b87542be916fdf.jpg",Prison Break: Em Busca da Verdade S05 E01
-http://178.162.193.239:2052/series/TouroVod-dbGVBCHHXZ/iHN6GKSqCD/12369.mkv
-#EXTINF:-1 group-title="GLOBOPLAY" tvg-logo="http://hosting-primex.xyz:2095/images/01b55a9e00a9440736378b238cb6d3e6.jpg",Prison Break: Em Busca da Verdade S05 E02
-http://178.162.193.239:2052/series/TouroVod-dbGVBCHHXZ/iHN6GKSqCD/12370.mkv
-#EXTINF:-1 group-title="GLOBOPLAY" tvg-logo="http://hosting-primex.xyz:2095/images/2605053e6277ea52858675065a283e1b.jpg",Prison Break: Em Busca da Verdade S05 E03
-http://178.162.193.239:2052/series/TouroVod-dbGVBCHHXZ/iHN6GKSqCD/12371.mkv
-#EXTINF:-1 group-title="GLOBOPLAY" tvg-logo="http://hosting-primex.xyz:2095/images/f5b6f9d63a3a356f3145a242bd51e185.jpg",Prison Break: Em Busca da Verdade S05 E04
-http://178.162.193.239:2052/series/TouroVod-dbGVBCHHXZ/iHN6GKSqCD/12372.mkv
-#EXTINF:-1 group-title="GLOBOPLAY" tvg-logo="http://hosting-primex.xyz:2095/images/9e0a8e183a5c0041b1d0a75539f4d789.jpg",Prison Break: Em Busca da Verdade S05 E05
-http://178.162.193.239:2052/series/TouroVod-dbGVBCHHXZ/iHN6GKSqCD/12373.mkv
-#EXTINF:-1 group-title="GLOBOPLAY" tvg-logo="http://hosting-primex.xyz:2095/images/f55b674dc1a78900c36898f92fbfabdc.jpg",Prison Break: Em Busca da Verdade S05 E06
-http://178.162.193.239:2052/series/TouroVod-dbGVBCHHXZ/iHN6GKSqCD/12374.mp4
-#EXTINF:-1 group-title="GLOBOPLAY" tvg-logo="http://hosting-primex.xyz:2095/images/96f7382e64ef0d7ce26e6a8a1dc1ec57.jpg",Prison Break: Em Busca da Verdade S05 E07
-http://178.162.193.239:2052/series/TouroVod-dbGVBCHHXZ/iHN6GKSqCD/12375.mp4
-#EXTINF:-1 group-title="GLOBOPLAY" tvg-logo="http://hosting-primex.xyz:2095/images/7f3e009eb8c87072f70440b3c02deb1c.jpg",Prison Break: Em Busca da Verdade S05 E08
-http://178.162.193.239:2052/series/TouroVod-dbGVBCHHXZ/iHN6GKSqCD/12376.mp4
-#EXTINF:-1 group-title="GLOBOPLAY" tvg-logo="http://hosting-primex.xyz:2095/images/805abc040a244dcccaaad00b3197d09b.jpg",Prison Break: Em Busca da Verdade S05 E09
-http://178.162.193.239:2052/series/TouroVod-dbGVBCHHXZ/iHN6GKSqCD/12377.mp4
-
-#EXTINF:-1 group-title="DORAMAS" tvg-logo="http://85.17.77.88:2095/images/95326bd83bce2dc064c6ead9688ee9d2.jpg",Pousando no Amor S01 E01
-http://178.162.193.239:2052/series/TouroVod-dbGVBCHHXZ/iHN6GKSqCD/51694.mp4
-#EXTINF:-1 group-title="DORAMAS" tvg-logo="http://85.17.77.88:2095/images/c564cc8cb9d8ca4a99d1f8ef99e2e083.jpg",Pousando no Amor S01 E02
-http://178.162.193.239:2052/series/TouroVod-dbGVBCHHXZ/iHN6GKSqCD/51695.mp4
-#EXTINF:-1 group-title="DORAMAS" tvg-logo="http://85.17.77.88:2095/images/94bf0472d3ce5830d61996dc62cf0e0a.jpg",Pousando no Amor S01 E03
-http://178.162.193.239:2052/series/TouroVod-dbGVBCHHXZ/iHN6GKSqCD/51696.mp4
-#EXTINF:-1 group-title="DORAMAS" tvg-logo="http://85.17.77.88:2095/images/d1a372fc229c41b9d5e95bc1b91159ed.jpg",Pousando no Amor S01 E04
-http://178.162.193.239:2052/series/TouroVod-dbGVBCHHXZ/iHN6GKSqCD/51697.mp4
-#EXTINF:-1 group-title="DORAMAS" tvg-logo="http://85.17.77.88:2095/images/0834256e598b22baf79e296fddac6f6e.jpg",Pousando no Amor S01 E05
-http://178.162.193.239:2052/series/TouroVod-dbGVBCHHXZ/iHN6GKSqCD/51698.mp4
-#EXTINF:-1 group-title="DORAMAS" tvg-logo="http://85.17.77.88:2095/images/3e07497be0aa44a2cf0091633beeeb12.jpg",Pousando no Amor S01 E06
-http://178.162.193.239:2052/series/TouroVod-dbGVBCHHXZ/iHN6GKSqCD/51699.mp4
-#EXTINF:-1 group-title="DORAMAS" tvg-logo="http://85.17.77.88:2095/images/c3f41f02be995eb568ff2ad803240b19.jpg",Pousando no Amor S01 E07
-http://178.162.193.239:2052/series/TouroVod-dbGVBCHHXZ/iHN6GKSqCD/51700.mp4
-#EXTINF:-1 group-title="DORAMAS" tvg-logo="http://85.17.77.88:2095/images/17b57867ac291a0e8a0f1ea134e77b10.jpg",Pousando no Amor S01 E08
-http://178.162.193.239:2052/series/TouroVod-dbGVBCHHXZ/iHN6GKSqCD/51701.mp4
-#EXTINF:-1 group-title="DORAMAS" tvg-logo="http://85.17.77.88:2095/images/752329cbfe221d83276d2ffa91042793.jpg",Pousando no Amor S01 E09
-http://178.162.193.239:2052/series/TouroVod-dbGVBCHHXZ/iHN6GKSqCD/51702.mp4
-#EXTINF:-1 group-title="DORAMAS" tvg-logo="http://85.17.77.88:2095/images/8cb7cc430abf44e6ab9f1acbab78564f.jpg",Pousando no Amor S01 E10
-http://178.162.193.239:2052/series/TouroVod-dbGVBCHHXZ/iHN6GKSqCD/51703.mp4
-#EXTINF:-1 group-title="DORAMAS" tvg-logo="http://85.17.77.88:2095/images/ff454c08059f1d3f66d25b5825438c6a.jpg",Pousando no Amor S01 E11
-http://178.162.193.239:2052/series/TouroVod-dbGVBCHHXZ/iHN6GKSqCD/51704.mp4
-#EXTINF:-1 group-title="DORAMAS" tvg-logo="http://85.17.77.88:2095/images/a6b7bf24c4c645d3fa11c4c8d331fcab.jpg",Pousando no Amor S01 E12
-http://178.162.193.239:2052/series/TouroVod-dbGVBCHHXZ/iHN6GKSqCD/51705.mp4
-#EXTINF:-1 group-title="DORAMAS" tvg-logo="http://85.17.77.88:2095/images/39657029b63eb758a1d212b445d1cb01.jpg",Pousando no Amor S01 E13
-http://178.162.193.239:2052/series/TouroVod-dbGVBCHHXZ/iHN6GKSqCD/51706.mp4
-#EXTINF:-1 group-title="DORAMAS" tvg-logo="http://85.17.77.88:2095/images/e2f5a3455948ada7bf2c19ae68dba476.jpg",Pousando no Amor S01 E14
-http://178.162.193.239:2052/series/TouroVod-dbGVBCHHXZ/iHN6GKSqCD/51707.mp4
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zpKU5P9a39o3Em781Qg3MDf7Znl.jpg",Prison Break S01 E01
+http://home-playtv.com:8080/series/RayGL63501/jqDzGNAQ2Z/466219.mkv
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/neHtBayxgjMI4yp9VUW3ZQbGcHo.jpg",Prison Break S01 E02
+http://home-playtv.com:8080/series/RayGL63501/jqDzGNAQ2Z/466220.mkv
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pD2RaYlzipbwkPUSI9gpXvLc5bf.jpg",Prison Break S01 E03
+http://home-playtv.com:8080/series/RayGL63501/jqDzGNAQ2Z/466221.mkv
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tTxOAXk0Z7jsmTO47qJA87vgfta.jpg",Prison Break S01 E04
+http://home-playtv.com:8080/series/RayGL63501/jqDzGNAQ2Z/466222.mkv
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rbYydzOeAoUOlvnKLu0K6k0shEA.jpg",Prison Break S01 E05
+http://home-playtv.com:8080/series/RayGL63501/jqDzGNAQ2Z/466223.mkv
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pGzruOTiqZORNRITNYv8k70kLUc.jpg",Prison Break S01 E06
+http://home-playtv.com:8080/series/RayGL63501/jqDzGNAQ2Z/466224.mkv
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xVS1lyQxjA6mX13Svox9DqiZ9IQ.jpg",Prison Break S01 E07
+http://home-playtv.com:8080/series/RayGL63501/jqDzGNAQ2Z/466225.mkv
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4x24pmXESRNwOAZncLACMDSomif.jpg",Prison Break S01 E08
+http://home-playtv.com:8080/series/RayGL63501/jqDzGNAQ2Z/466226.mkv
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7vpnH7tgU2WHzQhndQYsHsGteCT.jpg",Prison Break S01 E09
+http://home-playtv.com:8080/series/RayGL63501/jqDzGNAQ2Z/466227.mkv
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pRlq5GsuxleOjrXvJBm9f0MtEk9.jpg",Prison Break S01 E10
+http://home-playtv.com:8080/series/RayGL63501/jqDzGNAQ2Z/466228.mkv
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/65VVzgzKp3mae47naxz6bm2BKJR.jpg",Prison Break S01 E11
+http://home-playtv.com:8080/series/RayGL63501/jqDzGNAQ2Z/466229.mkv
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qdX6zISWKIsPAFlnlDXxPQlX6pM.jpg",Prison Break S01 E12
+http://home-playtv.com:8080/series/RayGL63501/jqDzGNAQ2Z/466230.mkv
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/48vbvN01viDOETu5gQRCzKiIjbh.jpg",Prison Break S01 E13
+http://home-playtv.com:8080/series/RayGL63501/jqDzGNAQ2Z/466231.mkv
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bzxfRRDNaJFcyRtQEwhx59low2O.jpg",Prison Break S01 E14
+http://home-playtv.com:8080/series/RayGL63501/jqDzGNAQ2Z/466232.mkv
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4CuelTzvqXpoNXdHkjs79Pw1jx3.jpg",Prison Break S01 E15
+http://home-playtv.com:8080/series/RayGL63501/jqDzGNAQ2Z/466233.mkv
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iwSfygbc4TULWimQxGi48go2Zvm.jpg",Prison Break S01 E16
+http://home-playtv.com:8080/series/RayGL63501/jqDzGNAQ2Z/466234.mkv
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k7hSD7OldbAz6lCIn6DJwaan8QY.jpg",Prison Break S01 E17
+http://home-playtv.com:8080/series/RayGL63501/jqDzGNAQ2Z/466235.mkv
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cWtpyMrcqcRNVmlFRDhVRWKIFO6.jpg",Prison Break S01 E18
+http://home-playtv.com:8080/series/RayGL63501/jqDzGNAQ2Z/466236.mkv
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w0fNfB4TgBXcMDQwqaLUjfU2mZY.jpg",Prison Break S01 E19
+http://home-playtv.com:8080/series/RayGL63501/jqDzGNAQ2Z/466237.mkv
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lhupm2Fw1q9ok2lzzpahJz1mtK7.jpg",Prison Break S01 E20
+http://home-playtv.com:8080/series/RayGL63501/jqDzGNAQ2Z/466238.mkv
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/onJECF7AW2Vk8F0KDHcyLIbbUSD.jpg",Prison Break S01 E21
+http://home-playtv.com:8080/series/RayGL63501/jqDzGNAQ2Z/466239.mkv
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uMaIBCNDIhxB0TC7iBmtoThPPuK.jpg",Prison Break S01 E22
+http://home-playtv.com:8080/series/RayGL63501/jqDzGNAQ2Z/466240.mkv
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eqd2FKFmLaWStuDBsJP4ONo1uOL.jpg",Prison Break S02 E01
+http://home-playtv.com:8080/series/RayGL63501/jqDzGNAQ2Z/466241.mkv
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i8Po4cLXpgFd0YtPhfb8zrMJSfR.jpg",Prison Break S02 E02
+http://home-playtv.com:8080/series/RayGL63501/jqDzGNAQ2Z/466242.mkv
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yIIFNBesiD6RF8SwtgXnSLXJB1Y.jpg",Prison Break S02 E03
+http://home-playtv.com:8080/series/RayGL63501/jqDzGNAQ2Z/466243.mkv
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qjjU3UfVmD9sGFPpNcPuhZAvtRU.jpg",Prison Break S02 E04
+http://home-playtv.com:8080/series/RayGL63501/jqDzGNAQ2Z/466244.mkv
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mm51Lt7T7MWrb5wGj6APbD8LhBk.jpg",Prison Break S02 E05
+http://home-playtv.com:8080/series/RayGL63501/jqDzGNAQ2Z/466245.mkv
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rPdhveQbyr0hvRZ80S3pDLsYxhL.jpg",Prison Break S02 E06
+http://home-playtv.com:8080/series/RayGL63501/jqDzGNAQ2Z/466246.mkv
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nTPnWRNrqUbzE82DfBcSStkIeEh.jpg",Prison Break S02 E07
+http://home-playtv.com:8080/series/RayGL63501/jqDzGNAQ2Z/466247.mkv
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u4zgs0Nlk3Qyk1LKybfesTp3V73.jpg",Prison Break S02 E08
+http://home-playtv.com:8080/series/RayGL63501/jqDzGNAQ2Z/466248.mkv
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l6okhWGk3FQk5woMRA69IzPlK6q.jpg",Prison Break S02 E09
+http://home-playtv.com:8080/series/RayGL63501/jqDzGNAQ2Z/466249.mkv
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j5ImimxDHnwto8171WJF0XObbGz.jpg",Prison Break S02 E10
+http://home-playtv.com:8080/series/RayGL63501/jqDzGNAQ2Z/466250.mkv
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/desLMwniMWRkOlJqQNG4cy2efhy.jpg",Prison Break S02 E11
+http://home-playtv.com:8080/series/RayGL63501/jqDzGNAQ2Z/466251.mkv
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qD4SctUCOzvXWdmw87uhyBm7Kzu.jpg",Prison Break S02 E12
+http://home-playtv.com:8080/series/RayGL63501/jqDzGNAQ2Z/466252.mkv
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xrlxuAvVITeiT294VgC1Ey32csg.jpg",Prison Break S02 E13
+http://home-playtv.com:8080/series/RayGL63501/jqDzGNAQ2Z/466253.mkv
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3hSwN627Drniizi1YLsqTUAnk2S.jpg",Prison Break S02 E14
+http://home-playtv.com:8080/series/RayGL63501/jqDzGNAQ2Z/466254.mkv
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xp5L6zMYOR2n4lTSLOeYDx95ewQ.jpg",Prison Break S02 E15
+http://home-playtv.com:8080/series/RayGL63501/jqDzGNAQ2Z/466255.mkv
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kFGJUPj5HHo5b6QRQiJgycvp96j.jpg",Prison Break S02 E16
+http://home-playtv.com:8080/series/RayGL63501/jqDzGNAQ2Z/466256.mkv
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Ri8FabxmYQEvSSMcFq0isyfMVy.jpg",Prison Break S02 E17
+http://home-playtv.com:8080/series/RayGL63501/jqDzGNAQ2Z/466257.mkv
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1u9a9JihuOCW9lRZhyCEQeu6qw5.jpg",Prison Break S02 E18
+http://home-playtv.com:8080/series/RayGL63501/jqDzGNAQ2Z/466258.mkv
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yxSpDZErilYomIW1EZ7j6wfX70t.jpg",Prison Break S02 E19
+http://home-playtv.com:8080/series/RayGL63501/jqDzGNAQ2Z/466259.mkv
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pqrdsmspkQXe3XnXpiss4Uj2kAh.jpg",Prison Break S02 E20
+http://home-playtv.com:8080/series/RayGL63501/jqDzGNAQ2Z/466260.mkv
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7TpZdnxL5i1YMX3heoOpGLsckFS.jpg",Prison Break S02 E21
+http://home-playtv.com:8080/series/RayGL63501/jqDzGNAQ2Z/466261.mkv
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Otf72kNkXlVasxIJCQ9605NaJD.jpg",Prison Break S02 E22
+http://home-playtv.com:8080/series/RayGL63501/jqDzGNAQ2Z/466262.mkv
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dcXE9FULTCM9A9fHwsmvC5v0Aat.jpg",Prison Break S03 E01
+http://home-playtv.com:8080/series/RayGL63501/jqDzGNAQ2Z/466263.mkv
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xFHAW5XDmcDUYU4sE8KsPvjCpts.jpg",Prison Break S03 E02
+http://home-playtv.com:8080/series/RayGL63501/jqDzGNAQ2Z/466264.mkv
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qvltFe22fCFVmIsLQ5aynOg2UKc.jpg",Prison Break S03 E03
+http://home-playtv.com:8080/series/RayGL63501/jqDzGNAQ2Z/466265.mkv
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mKNXCPU6nNjshRga5fs8TSh2DGZ.jpg",Prison Break S03 E04
+http://home-playtv.com:8080/series/RayGL63501/jqDzGNAQ2Z/466266.mkv
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/loUrlgClL1zmVnph1fWSeYq9w1A.jpg",Prison Break S03 E05
+http://home-playtv.com:8080/series/RayGL63501/jqDzGNAQ2Z/466267.mkv
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5W892drWT7g6MbADUsa1iWCPrWT.jpg",Prison Break S03 E06
+http://home-playtv.com:8080/series/RayGL63501/jqDzGNAQ2Z/466268.mkv
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1SpOoCkp3tug4y3pSR34yNCfilN.jpg",Prison Break S03 E07
+http://home-playtv.com:8080/series/RayGL63501/jqDzGNAQ2Z/466269.mkv
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yaCg43U3IM1MAKFHtkZhSSq3hpE.jpg",Prison Break S03 E08
+http://home-playtv.com:8080/series/RayGL63501/jqDzGNAQ2Z/466270.mkv
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3RnZb5y8EPkwl7xg55jxjiSmFGG.jpg",Prison Break S03 E09
+http://home-playtv.com:8080/series/RayGL63501/jqDzGNAQ2Z/466271.mkv
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vpfzpdq9nG85pMQpYScPK1Zwpye.jpg",Prison Break S03 E10
+http://home-playtv.com:8080/series/RayGL63501/jqDzGNAQ2Z/466272.mkv
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sNfYmjCrjdySjqWz4lGEpkguhEl.jpg",Prison Break S03 E11
+http://home-playtv.com:8080/series/RayGL63501/jqDzGNAQ2Z/466273.mkv
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zMICJcH3qJC2CQQvV6mMaEvmww3.jpg",Prison Break S03 E12
+http://home-playtv.com:8080/series/RayGL63501/jqDzGNAQ2Z/466274.mkv
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a4FlhFHeB4zTT4GNzaq1UNj1Ro4.jpg",Prison Break S03 E13
+http://home-playtv.com:8080/series/RayGL63501/jqDzGNAQ2Z/466275.mkv
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2gQemktoi0xe61MRDbmr5dsIbVQ.jpg",Prison Break S04 E01
+http://home-playtv.com:8080/series/RayGL63501/jqDzGNAQ2Z/466277.mkv
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9hBjKkIaMwDgi4VQqzxe9abFeBv.jpg",Prison Break S04 E02
+http://home-playtv.com:8080/series/RayGL63501/jqDzGNAQ2Z/466278.mkv
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9z4WcRWthFEXEMFRBTrBfrx1w6O.jpg",Prison Break S04 E03
+http://home-playtv.com:8080/series/RayGL63501/jqDzGNAQ2Z/466279.mkv
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8XAatpNwBB0GOfgZZcI7pXJyN1V.jpg",Prison Break S04 E04
+http://home-playtv.com:8080/series/RayGL63501/jqDzGNAQ2Z/466280.mkv
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cYe7h6LWEx3xjUXZSK0GbT5nsuZ.jpg",Prison Break S04 E05
+http://home-playtv.com:8080/series/RayGL63501/jqDzGNAQ2Z/466281.mkv
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gyoD7lfoZos3MTIdcpW2236sUfJ.jpg",Prison Break S04 E06
+http://home-playtv.com:8080/series/RayGL63501/jqDzGNAQ2Z/466282.mkv
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uFmxAOgUQacoW5Z1hIMljRDRSSl.jpg",Prison Break S04 E07
+http://home-playtv.com:8080/series/RayGL63501/jqDzGNAQ2Z/466283.mkv
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oMsY8jonPTz32YFqAePkrXUrLA4.jpg",Prison Break S04 E08
+http://home-playtv.com:8080/series/RayGL63501/jqDzGNAQ2Z/466284.mkv
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Ea4EtsNpuVC594IOOBR5fddRwd.jpg",Prison Break S04 E09
+http://home-playtv.com:8080/series/RayGL63501/jqDzGNAQ2Z/466276.mkv
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ewfheXLRlvCRMYoBar1R6GzzBcU.jpg",Prison Break S04 E10
+http://home-playtv.com:8080/series/RayGL63501/jqDzGNAQ2Z/466285.mkv
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eGWb6avyyKyjRxo4SrJ59eiiDaQ.jpg",Prison Break S04 E11
+http://home-playtv.com:8080/series/RayGL63501/jqDzGNAQ2Z/466286.mkv
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/54UxpQbYKDDpXZMK2O6V7o6ubjZ.jpg",Prison Break S04 E12
+http://home-playtv.com:8080/series/RayGL63501/jqDzGNAQ2Z/466287.mkv
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a6LSuCiQTC53cPGNqJ2PhVtFM6B.jpg",Prison Break S04 E13
+http://home-playtv.com:8080/series/RayGL63501/jqDzGNAQ2Z/466288.mkv
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j1RjXLsQPq0DshcO7O04uVJIVnH.jpg",Prison Break S04 E14
+http://home-playtv.com:8080/series/RayGL63501/jqDzGNAQ2Z/466289.mkv
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r0p9UMOVZtHkgq7uAAfQA6Ewu0h.jpg",Prison Break S04 E15
+http://home-playtv.com:8080/series/RayGL63501/jqDzGNAQ2Z/466290.mkv
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eAcHEa8EMuLeo9WH8Fau9DXzsVF.jpg",Prison Break S04 E16
+http://home-playtv.com:8080/series/RayGL63501/jqDzGNAQ2Z/466291.mkv
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xuroAkXAlGnHXrRsFY5eCppDFzR.jpg",Prison Break S04 E17
+http://home-playtv.com:8080/series/RayGL63501/jqDzGNAQ2Z/466292.mkv
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wABDmPQ6azbS62AnIqu5GLkuFRP.jpg",Prison Break S04 E18
+http://home-playtv.com:8080/series/RayGL63501/jqDzGNAQ2Z/466293.mkv
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fTha4ieHNSwadoNEdPxONrnLTQQ.jpg",Prison Break S04 E19
+http://home-playtv.com:8080/series/RayGL63501/jqDzGNAQ2Z/466294.mkv
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AvlGIjrLMsMPHuSRi0Jwu5GtEHI.jpg",Prison Break S04 E20
+http://home-playtv.com:8080/series/RayGL63501/jqDzGNAQ2Z/466295.mkv
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5a4gEiDFk1IYjCUCh41grh8QBgg.jpg",Prison Break S04 E21
+http://home-playtv.com:8080/series/RayGL63501/jqDzGNAQ2Z/466296.mkv
+#EXTINF:-1 group-title="Drama" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5E1BhkCgjLBlqx557Z5yzcN0i88.jpg",Prison Break S04 E22
+http://home-playtv.com:8080/series/RayGL63501/jqDzGNAQ2Z/466297.mkv
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5JfwxILzI6Kb9zqSnothjZKmqS0.jpg",Prison Break S05 E01
+http://home-playtv.com:8080/series/RayGL63501/jqDzGNAQ2Z/466298.mkv
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iIWt0XSI5lf8JzfZovyEd9EOdep.jpg",Prison Break S05 E02
+http://home-playtv.com:8080/series/RayGL63501/jqDzGNAQ2Z/466299.mkv
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y8YPPydBfZeVG4Lk9wHyKC8NTAi.jpg",Prison Break S05 E03
+http://home-playtv.com:8080/series/RayGL63501/jqDzGNAQ2Z/466300.mkv
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wDCQJ8AFqHFmSmytw3zwQb6Yzrk.jpg",Prison Break S05 E04
+http://home-playtv.com:8080/series/RayGL63501/jqDzGNAQ2Z/466301.mkv
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mmn4lNsoelI97AJpJpPBaTss3M8.jpg",Prison Break S05 E05
+http://home-playtv.com:8080/series/RayGL63501/jqDzGNAQ2Z/466302.mkv
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kbYBABw81gnyTPpBAl4MRnCwFUA.jpg",Prison Break S05 E06
+http://home-playtv.com:8080/series/RayGL63501/jqDzGNAQ2Z/466303.mkv
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zeKnUr0NXeLlb8NrC0UJSa8Alsb.jpg",Prison Break S05 E07
+http://home-playtv.com:8080/series/RayGL63501/jqDzGNAQ2Z/466304.mkv
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rJjw5noJPUdZ3XiNaIqbnDoT8eA.jpg",Prison Break S05 E08
+http://home-playtv.com:8080/series/RayGL63501/jqDzGNAQ2Z/466305.mkv
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d21YkZrWDPGXzqvM4PVqWwU0vJN.jpg",Prison Break S05 E09
+http://home-playtv.com:8080/series/RayGL63501/jqDzGNAQ2Z/466306.mkv
 #EXTINF:-1 group-title="DORAMAS" tvg-logo="http://85.17.77.88:2095/images/43a4a6b56c9ba5d50a4d2d0f9db8460c.jpg",Pousando no Amor S01 E15
 http://178.162.193.239:2052/series/TouroVod-dbGVBCHHXZ/iHN6GKSqCD/51708.mp4
 #EXTINF:-1 group-title="DORAMAS" tvg-logo="http://85.17.77.88:2095/images/b8499c3cf1a0453fe2063505d84c08fe.jpg",Pousando no Amor S01 E16
